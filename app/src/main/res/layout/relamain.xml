@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_margin="2dp"
+    android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="110dp"
+        android:layout_height="120dp"
+        app:cardMaxElevation="2dp"
+        android:layout_margin="6dp"
+        app:cardCornerRadius="4dp"
+        android:layout_centerInParent="true"
+        app:cardElevation="1dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp">
+            <ImageView
+                android:id="@+id/imageViewM"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:padding="15dp"
+                android:layout_marginLeft="1dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/icotalla"/>
+
+            <TextView
+                android:id="@+id/textViewM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="7dp"
+                android:text="Hay 12 recetas"
+                android:gravity="center"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8dp"
+                android:autoSizeMaxTextSize="15dp"
+                android:textColor="#E91E63"
+                android:textStyle="italic|bold"
+                android:layout_below="@+id/imageViewM"
+                android:textAlignment="center" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,1494 @@
+<resources>
+    <string name="app_name">AppRecetasPeruana</string>
+
+    <string name="appbar_scrolling_view_behavior"></string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="keyword">Keyword</string>
+    <string name="textAcerca">
+        Esta aplicación se hizo para los amantes de la cocina que deseen aprender a cocinar comida peruana  mediante esta App.
+    </string>
+    <string name="introduccion">
+        La gastronomia peruana es considerada en la actualidad como una de las más ricas y variadas del planeta. Esta aplicación nace con el objectivo de dar a conocer y difundir las recetas más reconocidas de la gastronomía del Perú en el mundo.Si eres amante de la comidas peruanas y deseas aprender a preparar las mejores recetas de manera práctica y sencilla, esta es tu App.
+    </string>
+    <string name="defbebida">
+        Es cualquier líquido que se ingiere y aunque por excelencia es el agua, el término se refiere por antonomasia a las bebidas alcohólicas y los refrescos.
+    </string>
+    <string name="decarne">
+         La carne es una fuente habitual de proteínas, grasas y minerales en la dieta humana. Es el que mayores valoraciones y apreciaciones alcanza en los mercados.
+    </string>
+    <string name="defsopa">
+        Preparación culinaria que consiste en un líquido con sustancia y sabor. En algunos casos posee ingredientes sólidos de pequeño tamaño sumergidos en su volumen.
+    </string>
+    <string name="defposte">
+        Plato de sabor dulce o agridulce que se toma al final de la comida, o de merienda. Cuando se habla de postres se entiende alguna preparación dulce, bien sean cremas, etc.
+    </string>
+    <string name="defmarisco">
+        Alimento con tantas proteínas, rico en vitaminas y minerales, pero además algunas variedades son también una importante fuente de Omega 3, ácidos grasos beneficiosos para la salud cardiovascular.
+    </string>
+    <string name="snaksypiqueo">
+        Alimento que generalmente se utilizan para satisfacer temporalmente el hambre, proporcionar una mínima cantidad de energía para el cuerpo o simplemente por placer. Comúnmente sirven en reuniones o eventos.
+    </string>
+    <!--POSTRES-->
+    <string name="avenamanza">
+        4 TZS.Leche \n
+        2 TZS.Hojuelas de avena \n
+        4 CDAS.Panela granulada \n
+        1 Rama de canela \n
+        2 Manzanas verdes \n
+        4 CDAS.Yogur griego natural \n
+        4 CDAS.Almendras tostadas y laminadas \n
+        1/4 CDTA.Canela en polvo
+    </string>
+    <string name="avenamanzarece">
+        1.En una olla, hierva la leche y agregue la avena, la panela y la canela. \n
+        2.Cocine a fuego medio, removiendo constantemente, hasta obtener una preparación de consistencia cremosa.\n
+        3.Retire del fuego y reserve. En tanto, coloque las manzanas enteras en una lata y llévelas al horno a 180 ºC durante 20 minutos, hasta que estén suaves. Retire y deje enfriar. \n
+        4.Pélelas, deseche los corazones, córtelas en cubos e incorpórelas a la avena tibia reservada con el yogur. Mezcle.\n
+        5.Sirva la avena con manzanas y decore con las almendras y la canela en polvo. Si desea, puede añadir a la decoración láminas de manzana y fresas.
+    </string>
+    <string name="bolaalfajor">
+        10 Huevos \n
+        1L Leche fresca \n
+        2 TZS.Azúcar blanca \n
+        1 1/2 TZS.Azúcar en polvo \n
+        100G Mantequilla sin sal \n
+        2 CDTAS.Vainilla \n
+        1 CDTA.Pisco \n
+        1 TZ.Maicena \n
+        2 TZS.Harina sin preparar \n
+        1 CDTA.Polvo para hornear \n
+        495ML Leche condesada (1 Tarro) \n
+        1/2 TZS.Nueces tostadas picadas \n
+        1 TZ.Mermelada de Albaricoque
+    </string>
+    <string name="bolaalfajorrece">
+        1.En una olla a fuego medio, hierva por cinco minutos siete yemas, un huevo colado, la leche fresca y el azúcar blanca, removiendo constantemente con un cuchara de madera, hasta que parezca costarse. \n
+        2.Baje el fuego y continúe removiendo cada tanto durante una hora, hasta que la preparación vuelva a integrarse y el líquido desaparezca. \n
+        3.Retire del fuego y, con una batidora eléctrica a velocidad media, bata por 10 minutos hasta que enfríe. Mezcle con una taza de azúcar en polvo e integre hasta formar una masa homogénea.\n
+        4.Reserve el maná. En un bol, con una batidora eléctrica a velocidad media, bata por dos minutos con la mantequilla con el resto de azúcar en polvo, hasta integrar.  \n
+        5.Agregue dos yemas, una cucharadita de vainilla y el pisco. Mezcle y reserve. Cierna la maicena, la harina y el polvo para hornear, y mézclelos con la preparación anterior , hasta formar un masa suave y homogénea. \n
+        6.Tape con papel film y deje reposar en el refrigerador durante una hora . Luego separe la mesa en tres partes iguales y estírelas con un rodillo hasta lograr discos de 22 centímetros de diámetro y tres milímetros de grosor. \n
+        7.Lleve cada disco al horno precalentado de 180° C, durante 15 minutos, hasta que los bordes comiencen a tomar color. Retire y deje enfriar. \n
+        8.En una olla a fuego bajo, haga hervir por una hora la leche condensada, la leche evaporada y la vainilla restante, removiendo constantemente con una cuchara de madera, hasta que adquiera consistencia.\n
+        9.Retire, agregue las nueces y mézclelas con manjar blanco.
+    </string>
+    <string name="lecheasadaconlechecondesada">
+        6 huevos. \n
+         600 mililitros de leche entera. \n
+         ½ vaso de leche entera. \n
+         1 lata de leche condensada(390 gramos). \n
+         2 ramas de canela. \n
+         1 rama de vainilla natural(preferible). \n
+         1 cucharada postre de canela(en polvo). \n
+         1 cucharada postre de esencia de vainilla. \n
+    </string>
+    <string name="lecheasadaconlechecondesadarece">
+        1.Verte dentro de una cazuela el 1/2 vaso de leche, la vainilla y la canela (en polvo o en rama). Remueve constantemente para que las especias aromaticen la leche. Apenas hierva, apaga el fuego y deja enfriar hasta que alcance una temperatura ambiente. \n
+        2.Bate los huevos con una varilla manual. Luego, agrega la leche condensada a la mezcla poco a poco y remueve. Hecho esto, de la misma manera vierte la leche entera. Finalmente, añade 1 cucharadita de vainilla y 1 cucharadita de canela, y remueve muy bien. Ahora, integra a la mezcla el vaso de leche aromatizada y bate hasta incorporar por completo. ¡Lista la mezcla para nuestra leche asada con leche condensada en microondas! \n
+        3.Vierte la preparación dentro de un molde apropiado para cocción en microondas. Existen varias opciones: moldes de silicona, refractarios o moldes plásticos especiales. Cocina la leche asada en el microondas de 15 a 30 minutos; este tiempo varía según la potencia de tu electrodoméstico. En mi caso cociné este postre por 35 minutos. Te recomiendo tantear la textura del dulce a los 10 minutos y luego cada 5 minutos, hasta lograr la cocción adecuada. Para esto, pincha con un palillo el centro, si el palillo sale húmedo continúa cocinando. \n
+        Deja enfriar la leche asada con leche condesada hasta que alcance la temperatura ambiente. Luego, refrigera por 3 o 4 horas, o mejor aún de un día para otro. \n
+        4.Esta exquisita leche asada nada tiene que envidiarle a la preparada en el horno, pues la única diferencia notable es que carece de las costra dorada que suele cubrir a este postre. Sin embargo, su sabor y textura son perfectos. ¡Simplemente exquisito!
+    </string>
+
+    <string name="cremalucuma">
+        250 g lúcumas en puré. \n
+        2 cucharadas soperas de azúcar flor/glas. \n
+        2 tazas de crema de leche o nata líquida para montar. \n
+        2 cucharadas soperas de gelatina sin sabor \n.
+        1 chorro de agua caliente.
+    </string>
+    <string name="cremaprepara">
+        1.Pela las lúcumas, quítales la semilla y tritúralas en la licuadora o con la túrmix hasta obtener un puré homogéneo. \n
+        2.Bate la crema de leche hasta montarla y añade el azúcar flor con movimientos envolventes. \n
+        3.Incorporar sin batir de a cucharadas el puré de frutas y mezcla bien la crema de lúcumas para tortas. \n
+        4.Si quieres hacer un postre en sí de esta crema de lúcuma para relleno de torta puedes disolver la gelatina neutra en un poco de agua caliente y mezclarla con la crema. A continuación, llena las copas que quieras con esta preparación, refrigera unas horas y una vez cuajada, sirve la crema de lúcuma casera con un poco de nata montada por encima de cada copa. Si no, simplemente utilízala como cualquier otra crema pastelera.
+    </string>
+    <string name="pielimonper">
+        2 tazas de galletas de vainilla(María) \n
+         ½ taza de mantequilla(sin sal). \n
+         Relleno: \n
+         1 lata de leche condensada(400g). \n
+         ½ taza de zumo de limón. \n
+         4 huevo(yemas). \n
+        Merengue: \n
+         4 huevo(claras). \n
+         175 gramos de azúcar blanca.
+    </string>
+    <string name="pielimonrece">
+        1.Tritura las galletas María de la forma que te parezca más efectiva: con procesador de alimentos, licuadora, rodillo, etc. Reserva. \n
+        TRUCO: Pre-calenta el horno a 180C. \n
+        2.Prepara primero la base del pie de limón peruano. Por un lado, derrite la mantequilla; por otro, agrega las migas de galleta en el molde (preferiblemente desmoldable). Vierte la mantequilla sobre las migas y amasa hasta formar una pasta suave y manejable. Expande la masa sobre toda la superficie del molde de forma pareja. Luego, hornea a 180 ºC durante 15 minutos y, pasado el tiempo, deja enfriar a temperatura ambiente y reserva. \n
+        3.Acto seguido, elabora el relleno del pie de limón peruano. Para ello, agrega dentro de un bol la leche condensada, las yemas de huevo y el zumo de limón. Remueve con una cuchara de madera muy bien los ingredientes hasta que se integren por completo. \n
+        Truco: Preferiblemente, bate ligeramente las yemas de huevo antes de agregarlas a la preparación. \n
+        4.Vierte sobre la base de galletas el relleno de limón. Introduce el pie peruano con galletas en el horno a 180 ºC durante 15 minutos. Retira y espera hasta que enfríe. \n
+        5.Finalmente, prepara la cubierta del pie de limón peruano. Para elaborar el merengue bate las claras hasta lograr el punto de nieve. Para esto, debes batir de forma circular, de arriba hacia abajo para incorporar la mayor cantidad de aire, entonces agrega una pizca de sal. Cuando las claras suban bastante, añade el azúcar poco a poco y bate hasta lograr una consistencia firme. \n
+        6.Con la ayuda de una cuchara y una manga repostera decora el pie de limón peruano con galletas. Con la cuchara (de madera o una espátula de silicona) cubre la superficie de la tarta. Luego, utilizando la manga de repostería (o incluso la misma cuchara o un tenedor) crea picos con el merengue, o dale la forma que más te guste. Regresa al horno hasta que se dore ligeramente la cubierta. \n
+        Truco: Puedes improvisar una manga repostera con una bolsa de plástico. \n
+        7.Este maravilloso pie peruano lo decoré utilizando azúcar saborizado con ralladura de limón y unas hojas de hierbabuena ¡Absolutamente fragante! \n
+        8.Te invito a dejar entrar en tu cocina las notas cítricas de este magnífico postre, potenciadas por los fragantes limones peruanos. Sería maravilloso conocer tu vivencia culinaria al preparar este pie de limón peruano.
+    </string>
+    <string name="lecheasadaalbanomaria">
+        500 mililitros de Leche fresca entera. \n
+        100 gramos de Azúcar blanca granulada. \n
+        1 cucharadita de Esencia de vainilla. \n
+        3 unidades de Huevos. \n
+        1 unidad de Yema de huevo. \n
+        1 pizca de Sal.
+    </string>
+    <string name="lecheasadoalbanorece">
+        1.El primer paso para elaborar esta leche asada al baño María es precalentar el horno a 170° C. \n
+        2.A continuación, poner en una olla la leche, el azúcar y la vainilla y calentar a fuego medio, no debe hervir. \n
+        TRUCO: Lo que logramos con esto es que se derritan los granos de azúcar. \n
+        3.Aparte, batir los huevos con la yema y la sal. \n
+        4.Agregar los huevos a la leche y dejar que dé un hervor moviendo constantemente para evitar que los huevos se cocinen y la leche asada peruana nos quede bien. \n
+        5.Por otro lado, preparar una fuente de vidrio de 26 cm x 17 cm donde haremos el baño María de la leche asada al horno. Cubrir la base con un pedazo de papel manteca doblado, esto hará que el agua no burbujee y las gotas caigan en los moldecitos. \n
+        TRUCO: Pueden usar una fuente más grande para que les quepa más moldecitos. \n
+        6.Colar la preparación de la leche asada estilo Perú una vez sacada del fuego. Luego, verterla en los moldecitos o ramequines que queramos. Colocar los ramequines sobre la fuente y llevar la leche asada al horno. \n
+        7.Una vez en el horno, añadir agua caliente a la fuente con mucho cuidado hasta que llegue a la mitad de altura de los moldecitos. Hornear por 1 hora y 15 minutos o hasta que al insertar un palito este salga limpio. \n
+        Una vez esté bien cocida, la dejamos enfriar y ya podremos servir nuestra leche asada al baño María.
+    </string>
+    <string name="pasteldeheladoperu">
+        Para el bizcochuelo de vainilla :\n
+         4 unidades de Huevos. \n
+         1 taza de Harina de trigo (140 gramos). \n
+         1 taza de Azúcar (200 gramos). \n
+         1 cucharadita de Polvo de hornear \n
+         1 cucharadita de Esencia de vainilla. \n
+        mousse de gelatina: \n
+         1 sobre de gelatina de fresas. \n
+         2 tazas de Agua (480 mililitros). \n
+         1 lata de leche evaporada. \n
+         Fresas para decorar.
+    </string>
+    <string name="pasteldeheladorece">
+        1.Nuestro primer paso para realizar la receta de pastel helado es prealistar los ingredientes. \n
+        2.Primero, vamos a realizar el bizcocho de vainilla. Para ello, bate los huevos con el azúcar hasta que ésta se disuelva y quede todo bien mezclado. \n
+        3.Lo ideal es que se integren los ingredientes hasta que salga espuma. \n
+        4.Añade la harina de trigo tamizada,es decir que se pase por un colador, junto con el polvo para hornear y la esencia de vainilla. \n
+        5.Lleva la masa del bizcocho de vainilla al molde donde vayas a realizar el pastel peruano. Puedes usar un molde tradicional o hacer el pastel helado en envases individuales. Precalienta el horno a 180ºC y hornea nuestro bizcocho. \n
+        6.Mientras se hacen el bizcochuelo, vamos a preparar la gelatina, entonces alista los ingredientes del mousse. \n
+        7.Mezcla la gelatina con una taza de agua caliente y otra taza de agua fría. En un molde similar a el de los bizcochos, añade la mitad de la mezcla de gelatina de fresas. Lleva a la nevera hasta que este cuaje. \n
+        8.Mezcla la otra mitad de la gelatina de fresa con la leche evaporada. \n
+        9.Retira el bizcocho los moldes de vainilla. \n
+        10.Una vez la gelatina de fresas este bien firme añade en el molde el resto de la gelatina de fresas con leche evaporada. Lleva nuevamente a la nevera o refrigerador hasta que este cuaje bien. \n
+        11.Corta el bizcocho de vainilla y pon estas piezas en los moldes con la gelatina. Por último vuelve a bañar todo con el resto de la gelatina de fresas. Leva nuevamente a la nevera hasta que cuaje. \n
+        12.Desmolda cada una de las porciones del pastel helado peruano y decora con fresas frescas. Este postre es diferente al bizcocho clásico o la gelatina de siempre, así que seguro que sorprendes a todos al presentar este delicioso postre peruano. Si deseas más recetas de postres y tienes algún comentario o inquietud, escríbenos. \n
+        ¡Disfruta!
+    </string>
+    <string name="mazamorramorada">
+        ½ kilogramo de maíz morado \n
+         ½ onza de zumo de limón \n
+         1 taza de harina de chuño o fécula de papa \n
+         6 litros de agua \n
+         1 taza de azúcar (al gusto) \n
+         3 ramas de canela \n
+         Clavo de olor \n
+         Corteza de una piña \n
+        Para servir \n
+         Guindones \n
+         Pasas (opcional) \n
+         canela en polvo \n
+    </string>
+    <string name="mazamorramoradarece">
+        1.Primero, preparamos la chicha morada. Para ello, ponemos en una olla los 6 litros de agua y, cuando hierva, agregamos el maíz morado, la canela, clavo de olor al gusto y la cáscara de la piña. De forma opcional, podemos añadir algunas frutas, como un par de manzanas. Dejaremos que se cocine a fuego lento hasta que el agua esté de color morado. Esto puede llevarnos alrededor de 45 minutos. \n
+        2.Cuando el agua se haya tornado de color morado intenso, retiramos 3 litros para hacer la mazamorra morada y los vertemos en otra olla para ponerla también al fuego. El resto podemos dejarlo en la olla, añadiendo un poco más de agua, para elaborar una chicha concentrada que podamos beber. \n
+        3.Añadimos el azúcar a la olla y removemos para que se disuelva. Ahora, es posible añadir pedazos de fruta, como membrillo, manzana o piña. En tal caso, será necesario esperar a que hierva de nuevo para verter el zumo de limón. Si no agregas fruta, puedes añadir directamente el zumo. Una vez incorporado, dejamos que se hierva durante 8-10 minutos. \n
+        4.Aparte, disolvemos la harina de chuño en un poco de chicha. También se puede disolver en agua, pero de esta forma queda la mazamorra morada más concentrada. Una vez disuelta, la añadimos a la olla poco a poco y sin dejar de mover. \n
+        TRUCO: La harina de chuño se puede sustituir por fécula de papa o harina de camote. \n
+        5.Seguimos cocinando hasta que la mazamorra morada adquiera la consistencia deseada. Si vemos que queda muy líquida, siempre podemos disolver un poco más de harina de chuño y agregarlo a la olla. Justo antes de servir, añadimos los guindones y las pasas. \n
+        6.Servimos la mazamorra morada espolvoreando canela en polvo por encima. Este postre es perfecto para el invierno, aunque en Perú es común comerlo durante todo el año acompañado con arroz con leche, mezcla que se conoce con el nombre de "clásico". \n
+        7.
+    </string>
+    <string name="quesohelodoarequipeno">
+        1 litro de Leche fresca \n
+         1 tarro de leche condensada mediano \n
+         5 unidades de Clavos de olor \n
+         3 ramas de canela \n
+         100 gramos de Coco rallado seco \n
+         1 rama de canela en polvo \n
+         1 gota de Esencia de vainilla \n
+    </string>
+    <string name="quesoheladorece">
+        1.En una olla echar la leche, los clavos de olor, las ramas de canela y el coco rallado. Mover regularmente mientras cocina a fuego medio hasta que se evapore por lo menos el 15 % de la leche. \n
+        2.Colar la leche retirando el coco rallado, los clavos de olor y las ramas de canela. Mezclar la leche fresca con la leche condensada, echar media cucharadita de esencia de vainilla.. \n
+        3.Llevar al congelador por lo menos durante dos horas . Al momento de servir echar un poco de canela molida sobre el queso helado. \n
+        4.Preferible al congelar cubrir lo preparado con una capa de papel film y ya puede disfrutar de este rico postre el queso helado arequipeño.
+    </string>
+    <string name="lecheasadaperu">
+         1 lata de leche condensada \n
+         1 lata de leche evaporada \n
+         4 unidades de Huevo \n
+         1 unidad de Limón (ralladura) \n
+         1 taza de Azúcar (200 gramos) \n
+         1 cucharadita de vainilla \n
+    </string>
+    <string name="lecheasadarece">
+        1.Para empezar a preparar esta deliciosa leche asada, lo primero que debes hacer es mezclar las dos latas de leche. Utiliza las latas estándar de 397 gramos. \n
+        2.Aparte, separa las yemas de las claras. Mezcla las yemas con un poco de la leche y bate hasta que se integren. Monta las claras a punto de nieve. \n
+        3.Une las claras montadas con las yemas y la mezcla de las leches. Bate bien todo y añade la ralladura de limón y la vainilla. \n
+        4.Con el azúcar haz un poco de caramelo líquido y acaramela el molde donde vas a servir la leche asada. Puedes usar un molde grande o varios individuales.
+    </string>
+    <string name="cremavolteadaperu">
+        1 lata de leche condensada \n
+         1 lata de leche evaporada \n
+         4 unidades de Huevos \n
+         1 cucharadita de vainilla \n
+         150 gramos de Azúcar (¾ taza) \n
+    </string>
+    <string name="cremavolteadarece">
+        1.Al igual que como si se tratará de un flan de huevo, el primer paso para hacer la crema volteada es quemar el azúcar hasta que se vuelva caramelo. \n
+        2.Cuando tengas el caramelo líquido colócalo en el molde clásico de la crema volteada que es el que tiene un agujero en el centro. También puedes hacerlo en moldes individuales. En cualquiera de los casos, dale vueltas al caramelo dentro del molde para que cubra toda la superficie. Reserva para que el caramelo se solidifique. \n
+        3.Aparte, bate ligeramente lo huevos y mezcla con el resto de los ingredientes. No hace falta que utilices varillas eléctricas. batir la mezcla con un tenedor será suficiente. \n
+        4.Vierte esta mezcla en el molde acaramelado y cocina la crema volteada a baño María. Si lo haces con una olla al fuego deberás esperar unos 45 minutos. Si lo haces al horno deberá ser 1 hora más o menos. \n
+        5.Demoslda la crema volteada peruana y disfruta de este delicioso postre después de una buena comida, también típica de Perú como por ejemplo el ají de atún. \n
+        6.Se debe comer frío, helado de preferencia.
+    </string>
+    <string name="mazamorradechancaca">
+         kilogramo de Harina de trigo \n
+         ½ trozo de Chancaca \n
+         5 unidades de Clavos de olor \n
+         3 ramas de canela \n
+         2 tarros de Leche \n
+         Azúcar al gusto \n
+         1 pizca de canela molida \n
+         1 copa de Vino blanco o pisco \n
+         1 puñado de Pasas
+    </string>
+    <string name="quequeplatano">
+        130G Mantequilla sin sal \n
+        1/3 TZ.Azúcar rubia \n
+        3 Huevos \n
+        2 Plátanos de seda \n
+        1/4 CDTA.Núez moscada rallada \n
+        Jugo de 1 limón \n
+        Ralladura 1 limón \n
+        1/2 TZ.Nueces \n
+        1 TZ.Harina sin preparar \n
+        1 CDTA.Polvo de hornear \n
+        1/2 TZ.Leche evaporada
+    </string>
+    <string name="quequeplatanorece">
+        1.Con una batidora eléctrica, bata 130 gramos de mantequilla y el azúcar por dos minutos.\n
+        2.Sin dejar de batir, añada los huevos uno por uno, integrando después de incorporar cada uno.\n
+        3.Aparte, triture los plátanos con un tenedor y mézclelos con la nuez moscada, el jugo de limón, la ralladura y las nueces.\n
+        4.Añada la mezcla a la preparación anterior y luego agregue intercaladamente una taza de harina, previamente cernida con el polvo para hornear, y la leche. \n
+        5.Vierta en un molde rectangular de 26 centímetros de largo engrasado y enharinado con la mantequila y la harina restantes, y lleve al horno precalentado a 180°C por 30 minutos.\n
+        6.Retire, deje enfriar y desmolde. Sirva
+    </string>
+    <string name="mazamorrachancacarece">
+        1.Para preparar este postre peruano, lo primero que debes hacer es coger un cazo y añadir un poco de agua, la canela, los clavos y la chancaca. Se deja cocinar a fuego medio hasta que la chancaca se derrita. \n
+        2.Aparte, disuelve en un poco de agua fría la harina. Cuando no queden grumos y esté bien disuelta, añádela al cazo donde tienes el agua con la chancaca. \n
+        3.Mueve enérgicamente la preparación, añade azúcar al gusto, la leche y el pisco. Deja la preparación al fuego, moviéndola constantemente, hasta que tome el punto deseado. \n
+        4.Cuando la mazamorra de chancaca esté lista, se sirve y se espolvorea un poco de canela molida por encima.
+    </string>
+    <string name="rolloaguaymanto">
+        1L Leche \n
+        615G Azúcar \n
+        150G Harina Preparada \n
+        50G Maicena \n
+        15 Huevos \n
+        1/2 CDA.Vainilla \n
+        1 KG.Aguaymanto \n
+        2 TZS.Azúcar
+    </string>
+    <string name="rolloaguaymantorece">
+        1.Licúe, 250 gramos de azúcar, 50 gramos de harina previamente cernida, la maicena, seis yemas y la vainilla. \n
+        2.Vierta en una olla a fuego bajo por aproximadamente 20 minutos, hasta que espese, moviendo constantemente con una cuchara de madera. \n
+        3.Retire y reserve la crema pastelera. En una olla a fuego alto, hierva 85 gramos de azúcar con media taza de agua durante 10 minutos, hasta el punto de ebullición, sin remover, y retire. \n
+        4.Reserve la miel. Con una batidora eléctrica a velocidad alta, bata nueve claras a punto de nieve. Agregue la miel en forma de hilo y nueve yemas, una por una. \n
+        5.Al final agregue 50 gramos de harina cernida previamente y continúe batiendo a velocidad alta, durante cinco minutos, hasta que la consistencia se vuelva espumosa y uniforme. \n
+        6.Coloque la mezcla en una lata para horno engrasada con dos cucharadas de mantequilla y el resto de la harina, y lleve al horno precalentado a 160 °C, durante 40 minutos. \n
+        7.En una olla a fuego lento, ponga a hervir los aguaymantos enteros durante 20 minutos, hasta que suelten sus líquidos. \n
+        8.Agregue el resto del azúcar y deje hervir por 15 minutos a fuego bajo, removiendo ocasionalmente.Retire del fuego y deje enfriar a temperatura ambiente. \n
+        9.Desmolde el bizcocho, corte los bordes en una fuente. Bañe con la mermelada de aguaymanto.
+    </string>
+    <string name="smothieleche">
+        1 TZ.Almendras \n
+        6 Dátiles sin huesos \n
+        4 CDTAS.Miel de abeja\n
+        1/2 TZ.Yogur natural descremado \n
+        2 CDAS.Hojuelas de avena \n
+        12 cubos de hielo
+    </string>
+    <string name="smothielecherece">
+        1.Remoje las almendras en agua caliente durante ocho horas. \n
+        2.Deseche el agua, retire la piel de las almendras y licúelas junto con dos tazas de agua hervida hasta que las almendras queden molidas y el líquido, blanco.  \n
+        3.Con la ayuda de un paño o gasa, deje  reposar para que cuele, la leche de almendras, agregue dos tazas más de agua y mezcle.  \n
+        4.Vierta dos tazas de la leche de almendras en una licuadora junto con el resto de ingredientes y licúe hasta lograr una mezcla uniforme y suave. \n
+        5.Sirva inmediatamente.
+    </string>
+    <string name="souflecoliflor">
+        2 CDAS.Mantequilla \n
+        750G Coliflor orgánica en trozos \n
+        2 CDAS.Harina sin preparar \n
+        3 OZ Leche de soya orgánica \n
+        1/2 CDTA.Núez moscada rallada \n
+        4 Huevos de corral orgánico \n
+        1/2 TZ.Queso parmesano rallado \n
+        Sal y pimienta
+    </string>
+    <string name="souflecoliflorrece">
+        1.Engrase un molde refractario de 14 por 22 centímetros con una cuchara de mantequilla. \n
+        2.Sancoche la coliflor en una olla a fuego medio con agua y sal. Retire del fuego, escurra y deje enfriar. Píquela y luego tritúrela con un tenedor. \n
+        3.Reserve. Aparte, ponga la harina y la mantequilla restante en una olla a fuego medio y cocine, sin dejar de remover durante cuatro minutos. \n
+        4.Añada poco a poco la leche y mezcle con un batidor de mano para evitar que se formen grumos. Cocine hasta que espese y obtenga una salsa blanca. Sazone con sal, pimienta y nuez moscada, y combine con la coliflor triturada.\n
+        5.Agregue las yemas y las claras batidas a punto nieve, mezcle en forma envolvente y cocine removiendo constantemente, durante cinco minutos. \n
+        6.Eche la mitad del queso parmesano e integre. Retire del fuego, vierta en el molde engrasado y lleve al horno a 160 °C, durante 10 minutos. \n
+        7.Retire, esparza encima el resto del queso parmesano y regrese al horno a la misma temperatura, por 15 minutos más. \n
+        8.Extraiga el soufflé del horno, deje entibiar y sirva.
+    </string>
+    <!--BEBIDAS-->
+    <string name="chicamorada">
+         1 kilogramo de Maíz Morado \n
+         1 unidad de Piña madura \n
+         2 unidades de manzanas \n
+         10 unidades de Clavos de Olor \n
+         1 rama de canela \n
+         4 litros de Agua \n
+         4 unidades de Limones \n
+         1 taza de Azúcar Rubia al gusto
+    </string>
+    <string name="chichamoradarece">
+        1.Hacer hervir el maiz morado junto con la piña y clavo de olr,canela, una vez hervido colar y dejar enfriar cuando este frio agregar azucar al gusto y luego los limones si se desea se puede agregar manzanas picadas chiquitas en cuadraditos de preferencia tomar bien fria.
+    </string>
+    <string name="sangriaperu">
+         1 litro de Vino tinto \n
+         ½ litro de Gaseosa de naranja \n
+         1 tarro de Jarabe de goma \n
+         1 vaso pequeño de Pisco peruano \n
+         1 unidad de manzana \n
+         1 unidad de Pera
+    </string>
+    <string name="sangriarece">
+        1.Para preparar esta sangría al estilo peruano, lo primero que debes hacer es dejar listos todos los ingredientes. Para ello, corta la manzana y la pera en cubos pequeños. \n
+        2.Luego, coge una jarra con la capacidad sufieciente, vierte el vino tinto y añade los trozos de manzana y pera. Remuévelo y deja que repose durante 30 minutos aproximadamente.  \n
+        3.Pasado el tiempo, incorpora la gaseosa y el pisco peruano y remuévelo todo bien. Después, añade el jarabe de goma y reserva la jarra de sangría en el frigorífico durante una o dos horas para que esté bien fría. Después, ya puedes servir tu sangría de vino peruana y degustarla con tus amigos.  \n
+    </string>
+    <string name="coctelalgarrobina">
+         1 tarro de leche evaporada \n
+         8 cubos de Hielo \n
+         2 cucharadas soperas de Algarrobina \n
+         1 unidad de Huevo \n
+         5 cucharadas soperas de Azúcar \n
+         1 vaso pequeño de Pisco Peruano
+    </string>
+    <string name="coctelalgarrobinarece">
+        1.Para realizar este cóctel de algarrobina necesitarás una licuadora o batidora. Vierte la leche evaporada en el recipiente de la licuadora, agrega la algarrobina y tritúralo todo durante unos minutos. \n
+        2.Cuando se hayan integrado, incorpora el pisco y el azúcar y sigue batiendo. Luego, añade el hielo y, por último, el huevo entero y continúa licuando hasta que se triture todo. \n
+        3.Una vez hecho el cóctel peruano, sírvelo en copas y espolvorea un poco de canela molida por encima a modo de decoración. Se trata de una bebida que se toma bien fría, por lo que si consideras que debes añadir más hielo hazlo.
+    </string>
+    <string name="piscosour">
+        120 mililitros de Pisco peruano \n
+         2 unidades de Limones \n
+         100 gramos de Azúcar (½ taza) \n
+         ½ unidad de Clara de huevo \n
+         2 cubos de Hielo \n
+         2 gotas de Amargo de angostura
+    </string>
+    <string name="piscosourrece">
+        1. Lo primero que debes hacer para preparar el pisco peruano es exprimir los limones para obtener el jugo, que es lo que realmente nos interesa. Luego, introduce en la licuadora el hielo, el jugo de limón y el pisco y tritúralo bien. Es importante que el pisco que compres sea puro.\v
+        2.Luego, agrega el azúcar y la clara de huevo y sigue batiendo hasta que el hielo esté bien picado y la clara montada. \n
+        3.Sirve el pisco sour peruano en vasos individuales y decóralos con unas gotas de amargo de angostura, o canela si lo prefieres. Este cóctel se suele servir durante el aperitivo.
+    </string>
+    <string name="quinuacarretillera">
+        Quinua – 200 gramos \n
+        Piña – 1/2 unidad \n
+        Manzana de agua – 2 unidades \n
+        Membrillo – 1 unidad \n
+        ½ tapa de chancaca \n
+        Clavo de Olor – 6 unidades \n
+        Ramas de Canela – 5 unidades \n
+        Chuño – 2 cucharadas
+    </string>
+    <string name="quinuacarretillerarece">
+        1.Primero empezamos preparando un caramelo con la chancaca, la colocamos en una olla, derretimos a fuego lento hasta formar un caramelo y finalmente lo colamos para quitar impurezas \n
+        2.Luego agregar 3 litros de agua con mucho cuidado, podría saltarte un poco de caramelo. Integrar y agregar las cáscaras de las frutas, canela y clavo, tapar y dejar cocinar a fuego medio durante 20 minutos. \n
+        3.Siguiendo retiramos las cáscaras de frutas, canela y clavo. \n
+        4. Continuando con la receta, agrega 1/2 piña picada en cubitos, 2 manzanas en cubitos y 1 membrillo pequeño. \n
+        5.Inmediatamente agregar 200 gramos de quinua previamente lavada (asegúrate de lavarla por lo menos 5 veces, hasta que el agua quede transparente)  \n
+        6.Seguidamente tapa y cocinar durante 30 minutos. Triturar las frutas con la ayuda de un colador\n
+        7.Disolver 2 cucharadas de fécula de papa (chuño) en 3 cucharadas de agua. (esto servirá para darle esa textura espesa que caracteriza a esta bebida) \n
+        8.Agregar chuño disuelto en agua hasta conseguir el espesor deseado. \n
+    </string>
+    <string name="chilipisco">
+        2 onzas de pisco \n
+        300 ml de Ginger Ale \n
+        6 cubos de hielo \n
+        1/2 onza de jugo de limón fresco \n
+        1 rodaja de limón \n
+        3 gotas de amargo de angostura \n
+        1/2 onza de jarabe de gomas(opcional)
+    </string>
+    <string name="chilipiscorece">
+        1.Coloca los cubos de hielo n un vaso largo, añade el pisco, el jugo de limón, completa con Ginger Ale y remueve con una cucharilla de bar. \n
+        2. Luego adiciona unas gotitas de amargo de angostura, y decora con una rodaja de limón. Sirve con un removedor y disfruta inmediatamente.
+    </string>
+    <string name="emolienteper">
+        150g de cebada tostada \n
+        100g de cola de caballo \n
+        10 hojas de boldo \n
+        8 cucharadas de linaza \n
+        4l de agua \n
+        1 menbrillo mediano(opcional) \n
+        Azúcar a gusto \n
+        Jugo de limón al gusto
+    </string>
+    <string name="emolienteperece">
+        1.Para empezar en una olla vierte 4 litros de agua. Luego agrega la cebada, la cola de caballo, la alfafa, la linaza, el menrillo, y las hojas de boldo. \n
+        2. Pon a calentar a fuego medio y hierve por aprox. 30 mintuos. \n
+        3.Transcurrido el tiempo indicado retira del fuego, deja enfriar y cuela la preparación, luego ponle azúcar al gusto. Sirve caliente o frío según la estación y agrega algunas gotas de limón al gusto también
+    </string>
+    <string name="limonadafrozen">
+        1 taza de hielo triturado \n
+        4 limones \n
+        1 clara de huevo \n
+        1 taza de agua fría \n
+        4 cucharadas de azúcar
+    </string>
+    <string name="limonfrozenrece">
+        1.Lo primero que debes hacer es lavar muy bien los limones. Córtalos por la mitad, elimina las semillas y exprime el jugo de cada limón \n
+        2.Seguidamente, licua el jugo de limón con el agua fría. Cuela el jugo y vacíalo en un recipiente \n
+        3.Lleva el jugo nuevamente a la licuadora y adiciona las claras de huevo, el hielo picado y el azúcar. Licua hasta obtenerel frozen o punto de granizado \n
+        4.Sirve en un vaso largo. Decora con una hojita de hierbabuena o menta y una rodajita de limón. \n
+    </string>
+    <string name="peruanisimo">
+        Hielo abundante (unos 9 cubos). \n
+        2 onzas de Pisco puro. \n
+        2 onzas de crema de coco. \n
+        1 chorrito de jugo de limón. \n
+        2 onzas de zumo de naranja. \n
+        2 onzas de chicha morada (agua del maíz morado hervido)
+    </string>
+    <string name="peruanisimorece">
+        1.Poner abundante hielo en el vaso mezclador. Agregar el pisco, la crema de coco, añadir un chorrito de zumo de limón, el zumo de naranja y finalmente 2 onzas de chicha morada.\n
+        2.Tapar el vaso mezclador y agitar enérgicamente por unos 15 segundos. \n
+        3.Servir con hielo y todo. \n
+        4.Decorar con un espiral de naranja y 2 sorbetes.
+    </string>
+    <string name="machupichu">
+         1 dash de granadina.\n
+         4 onz de jugo de naranja.\n
+         1.5 onz de pisco.\n
+         1 dash de menta\n
+         Hielo
+    </string>
+    <string name="machupichurece">
+        1.Poner en un copa pera el jugo de naranja y agragarle un dash de ganadina.\n
+        2.Poner el hielo con cuidado y aparte mezclar el pisco con la menta y echarlo despacio en hilo sobre el hielo (esto es para que no se mezclen).\n
+        3.Decorar con una rodaje de naranja sorbete o caña y marrasquino verde o rojo.
+    </string>
+    <string name="chichajora">
+        1 kg de maíz de jora. \n
+        ½ kg de azúcar Rubia. \n
+        ½ tapa de chancaca. \n
+        3 litros agua.
+    </string>
+    <string name="chichajorarece">
+        1.Remoje la jora en agua tibia por media hora. Luego cambie el agua y deje remojar por media hora más. \n
+        2. Cuele el maíz de jora y póngala a hervir en tres litros de agua a fuego lento durante ocho horas removiendo constantemente. \n
+        3.Cuando entre en ebullición no se debe permitir que el maíz de jora se reduzca, por lo que se debe agregar agua tibia para mantener el nivel. \n
+        4. Agregue el azúcar y la chancaca hasta que se disuelva y espere que la bebida se enfríe. \n
+        5.Coloque la chicha en vasijas de barro y protéjala con tamices tipo colador por donde filtre aire. \n
+        6.Deje la chicha en reposo por ocho días, terminando el plazo retire la espuma, cuele los sedimentos y endulce al gusto.
+    </string>
+    <string name="maracuyasour">
+        4 onzas de pisco \n
+        2 onzas de jugo de maracuyá \n
+        1/2 onza de clara de huevo \n
+        2 onzas de jarabe de goma \n
+        4 cubos de hielo \n
+        3 gotas de amargo de angostura
+    </string>
+    <string name="maracuyasourrece">
+        1.En una coctelera añade el psco, la clara de huevo, el jarabe de goma, el jugo de maracuyá y el hielo. \n
+        2.Cierra la coctelera y agita muy bien por 15 segundos. \n
+        3.Luego sirve en una copa de cóctel, las de boca ancha y pon las gotas de amargo de angostura.
+    </string>
+    <string name="aguajina">
+        2 kilos de aguaje maduro. \n
+        1 litro de agua hervida y fría. \n
+        Canela, clavo de olor y azúcar al gusto.
+    </string>
+    <string name="aguajinarece">
+        1.Pelar la cascara de los aguajes. Retirar la pulpa que cubre la pepa y colocarla en un recipiente con 1 litro de agua hervida previamente con la canela y el clavo de olor. Estrujar con las manos y luego colar. \n
+        2.Añadir azúcar al gusto y luego servir con hielo.
+    </string>
+    <string name="refrecocona">
+        1 Cocona de 300 G, picada.\n
+        1 Rama de canela. \n
+        2 Clavos de olor. \n
+        1/2 TZ.Azúcar rubia
+    </string>
+    <string name="refrecocorece">
+        1.Ponga la cocona en una olla con la canela, los clavos y cuatro tazas de agua. \n
+        2.Lleve a fuego medio y cocine durante 45 minutos. Agregue el azúcar y disuelva por completo. \n
+        3.Retire del fuego, deje enfriar y deseche la canela y los clavos. Licúe, cuele y mezcle con dos tazas de agua hervida fría. \n
+        4.Reserve en el refrigerador hasta preparar la lonchera.
+    </string>
+    <string name="reuva">
+        4 TZ.Uvas. \n
+        Jugo de 1 limón. \n
+        Jugo de 1 naranja. \n
+        1 TZ.Piña picada. \n
+        Azúcar. \n
+        Núez moscada
+    </string>
+    <string name="reuvarece">
+        1.Triture las uvas y cuele, de manera que solo caiga el jugo en una jarra. \n
+        2.Agregue los jugos de limón y naranja, la piña picada, el azúcar y la nuez moscada.  \n
+        3.Eche el hielo molido en los vasos y vierta en la preparación.
+    </string>
+    <!--SOPAS-->
+    <string name="aguaditopollo">
+        6 piezas de pollo \n
+         1 unidad de cebolla \n
+         1½ tazas de arroz \n
+         ½ taza de Culantro picado \n
+         ½ taza de Aceite \n
+         1 unidad de Cubito de pollo \n
+         1 cucharadita de Ajo molido \n
+         3 cucharadas de postre de Ají amarillo molido \n
+         1 taza de Arvejas \n
+         1 taza de Choclo desgranado \n
+         1 unidad de Pimiento rojo picado \n
+         4 unidades de Papas amarillas \n
+         10 tazas de Agua (2400 mililitros) \n
+         1 pizca de Sal \n
+         1 pizca de Pimienta
+    </string>
+    <string name="aguaditopollorece">
+        1.Sazonar con sal y pimienta las presas de pollo. \n
+        2.En una olla poner a calentar el acéite. \n
+        3.Preparar un aderezo con los ajos, cebolla y el ají molido. \n
+        4.Una vez cocinado añadir las presas de pollo y freirlas por todos los lados. \n
+        5.Incorporar el choclo, arverjitas, pimiento, el culantro. Dejar rehogar unos minutos. \n
+        6.Luego agregar el agua, cubito, papas y arroz.Dejar hervir por unos minutos para que espese. \n
+        7.Servir enseguida. Traten de usar una papa q no se deshaga al momento de cocción. \n
+    </string>
+    <string name="chupemarisco">
+         200 gramos de Mantequilla \n
+         ½ kilogramo de patatas \n
+         1 unidad de cebolla \n
+         1½ litros de Leche hirviendo \n
+         250 gramos de queso de barra en cuadros \n
+         2 unidades de Yema de huevo batida \n
+         ¼ kilogramo de langostinos \n
+         1 pizca de Sal \n
+         1 pizca de Pimienta
+    </string>
+    <string name="chupemariscorece">
+        1.Freír la cebolla picada en la mantequilla hasta que haya tomado algo de color, agregarle las patatas cortadas en cubos pequeños, salpimentarlas y cubrirlas con un poco de agua. \n
+        2.Tapar la cacerola y cocer a fuego moderado hasta que las patatas estén tiernas. \n
+        3.Entonces, agregar la leche hirviendo y dejar hervir durante 5 minutos más. \n
+        4.Cocer luego el queso y la carne de los langostinos durante 2 minutos. \n
+        5.Retirarlo. Servir muy caliente agregándole las yemas de huevo batidas.
+    </string>
+    <string name="chupeolluco">
+        1 kilogramo de Olluco picado \n
+         1 kilogramo de Zapallo rallado \n
+         2 unidades de Choclos (maíz) \n
+         1 kilogramo de habas verdes peladas \n
+         1 kilogramo de Papa amarilla pelada \n
+         1 kilogramo de queso fresco picado \n
+         1 taza de leche evaporada \n
+         3 ramas de Huacatay \n
+         1 pizca de Sal \n
+         1 pizca de Pimienta
+    </string>
+    <string name="chupeollucorece">
+        1.Sazonar con sal y pimienta las presas de pollo. En una olla poner a calentar el acéite. \n
+        2.Preparar un aderezo con los ajos, cebolla y el ají molido. \n
+        3.Una vez cocinado añadir las presas de pollo y freirlas por todos los lados. \n
+        4.Incorporar el choclo, arverjitas, pimiento, el culantro. \n
+        5.Dejar rehogar unos minutos.Luego agregar el agua, cubito, papas y arroz. \n
+        6.Dejar hervir por unos minutos para que espese. Servir enseguida.\n
+        7.Traten de usar una papa q no se deshaga al momento de cocción.
+    </string>
+    <string name="caldoverde">
+        1 kilo de papa amarilla \n
+        10 ramas de paico \n
+        10 ramas de perejil \n
+        6 ramas de ruda \n
+        2 huevos \n
+        250 gramos de quesillo \n
+        Sal
+    </string>
+    <string name="caldoverderece">
+        1.Pela el paico, el perejil y la ruda. Antes de moler las hojas quita el amargor aplastándolas un poco y escurra el líquido, repita varias veces este proceso. \n
+        2.En una olla mediana poner a hervir agua y agregar las papas (peladas y cortadas en cuatro). Cuando estén listas, añade los huevos “chicoteados”, es decir perfore un hueco en el huevo, sacuda el contenido y viértalo en el caldo. \n
+        3.Sazonar con sal e incorpore las hierbas molidas. Mueve y sirva con un trozo de quesillo.
+    </string>
+    <string name="caldogallina">
+        4 presas grandes de gallina \n
+        6 huevos, de los cuales 4 deben estar cocidos (huevos duros) \n
+        5 papas medianas, de preferencia amarilla \n
+        2 zanahorias \n
+        3 ramas de apio \n
+        3 ramas de puerro \n
+        1 pieza grande de kion (jengibre) entero \n
+        1/2 kg de espaguetis \n
+        1 atado de cebolla china (cebollín) cortado en trozos muy pequeños \n
+        Sal y pimienta al gusto
+    </string>
+    <string name="caldogallinarece">
+        1.En una olla grande pon 3 litros de agua y hiérvela. Cuando el agua esté hirviendo coloca las piezas de pollo previamente limpiadas cuidadosamente sin nada de grasa. \n
+        2.Cuando hayan pasado 30 minutos de la gallina hirviendo, coloca las zanahorias previamente peladas, las ramas de apio y puerro, el kion cortado en dados medianos y una papa. \n
+        3.Después de 20 minutos retira las ramas de apio, puerro, una zanahoria y un trozo de kion (jengibre). Licúalos todos juntos y agrégalos al caldo. Además agrega los dos huevos, mueve y rompe las yemas. \n
+        4.Deja cocinar todo por 10 minutos más y luego agrega las 4 papas amarillas (de preferencia) peladas y cortadas en mitades. Agrega sal, pimienta al gusto y cocina por 20 minutos hasta que la papa esté lista. Durante este tiempo puedes corregir la sal si es necesario. \n
+        5. En otra olla prepara los tallarines (espaguetis). El tiempo dependerá del tipo y la marca, pero suelen ser 10 minutos más o menos. \n
+        6.Para servir pon un poco de tallarines en el fondo de un plato hondo y sirve el caldo con una presa de gallina. Encima un huevo duro, un poco de cebolla china picada y trozos de limón aparte.\n
+        Puedes acompañar este sopa peruana con un poco de rocoto y canchita serrana.
+    </string>
+    <string name="sopares">
+        1 kilo costilla de res en trozos para sopa \n
+        sal y pimienta abundante \n
+        1 oz vinagre blanco \n
+        6 dientes ajos majados \n
+        6 ajíes amarillos peruanos majados \n
+        2 tazas chicha de jora (maíz fermentado). reemplaza con 1 cereveza Leffe \n
+        Sofrito: \n
+        1/4 taza aceite achiotado \n
+        1/2 taza loche rallado (zapallo rallado en su reemplazo) \n
+        1 pizca paprika (no es ingrediente tradicional) \n
+        1 cda orégano \n
+        1 cdta comino \n
+        1 cebolla en brunoise \n
+        1 cdta ají panca seco \n
+        al gusto sal y pimienta \n
+        Caldo: \n
+        4 tazas agua \n
+        Licuado: \n
+        1/2 cabeza ajos \n
+        3 tazas cebollina picada \n
+        1 taza cilantro picado \n
+        8 mazorcas de maíz nuevo desgranadas y licuadas
+    </string>
+    <string name="soparesrece">
+        1.La costilla la dejamos media hora en agua salada para depurar la sanguaza. Quitamos los cebos y exceso de grasas. Una vez seca la salamos al gusto, agregamos la pimienta molida: los ajos majados los licuamos con la chicha de jora, los ajíes y el vinagre, lo vertemos a la carne y dejamos que repose 12 hora para que absorba el gusto. Esto lo hacemos en la noche para preparar al día siguiente, reservando en la heladera. \n
+        2.Sofrito: calentamos la cacerola, y damos una tostada rápida al orégano, comino, paprika, agregamos el loche y el aceite, sofreímos para extraer las esencias, inmediatamente las cebollas picadas, los ajos y revolvemos para que no se quemen los ajos. Entra la carne escurrida y revolvemos para que se integren los sabores del aceite y se dore, como 10 minutos. Agregamos el marinado y el agua para hervir todo por dos horas. Si fuera en leña perfecto, para el sabor ahumado. \n
+        3.Una vez la carne este blanda, tomamos 2 tazas del caldo y llevamos a la licuadora junto con la cebollina, cilantro y ajos. Luego poco a poco licuamos los granos de maíz nuevo, hasta lograr una crema. Esta crema la vaciamos al caldo y la cocemos por 20 minutos revolviendo constantemente, para evitar que se queme el fondo. Si la carne estuviera muy suave, la retiras mientras cocinas la crema verde del maíz y retornas la final. \n
+        4.No es complicado pero si laborioso y planificado, es un plato sublime y se acompaña de arroz blanco de ajos y ceviche como guarniciones. Es de almuerzo, pues es consistente, combina con cervezas lagers y vinos suaves y frutosos, un Pinot Noir le vienen bien. \n
+        5.Debe quedar muy caldoso antes de espesar, si lo haces con leña duplica el agua al inicio, nunca al final pues dañas el sabor.
+    </string>
+    <string name="espesadochicla">
+        ½ kilo de carne de res trozada \n
+        ½ kilo de choclos desgrandos \n
+        1 atado de culantro licuado \n
+        2 cebollas \n
+        2 cucharadas de ajo molido \n
+        1 cucharada de ají panca molido \n
+        2 cucharadas de ají amarillo molido \n
+        Caldo de carne \n
+        3 cucharadas de aceite \n
+        2 cucharadas de vinagre rojo \n
+        1 cucharadita de pimentón \n
+        Sal \n
+        Pimienta
+    </string>
+    <string name="espesadochiclarece">
+        1.Procesar los granos de choclo junto con el culantro y una taza de caldo de carne. \n
+        2.Salpimentar la carne troceada y condimentarla también 1 cda. del ajo. \n
+        3.Colocar el aceite en una sartén y dorar la carne. Agregar luego una cebolla finamente picada y el ají amarillo. Dejar dorar y agregar luego el caldo restante. \n
+        4.Tapar y cocinar por unos 30 minutos o hasta que la carne esté tierna. \n
+        5.Incorporar el choclo licuado y llevar a hervor, removiendo constantemente. \n
+        6.Mientras tanto, en una sartén aparte, dorar la otra cebolla cortada en tiritas y previamente remojada en el vinagre. \n
+        7.Condimentar con 1 cdta. de ajo, el ají panca, sal, pimienta y pimentón y seguir la cocción hasta que la cebolla se ponga transparente.Condimentar con 1 cdta. de ajo, el ají panca, sal, pimienta y pimentón y seguir la cocción hasta que la cebolla se ponga transparente.
+    </string>
+    <string name="inchicapi">
+        1 gallina cortada en presas \n
+        ½ kilo de maní pelado \n
+        ¼ kilo de harina de maíz cernida \n
+        2 dientes de ajos pelados \n
+        1 cebolla picada \n
+        ½ taza sachaculantro \n
+        ½ kilo de yuca cocida \n
+        Sal al gusto
+    </string>
+    <string name="inchicapirece">
+        1.El primer paso es hervir la gallina con el agua hasta hacer una sustancia; una vez listo el caldo, reserva una parte y enfríala. \n
+        2.Con esta parte se licúa el maní con la harina de maíz, el ajo, la cebolla y el culantro. \n
+        3.Después agrégale al caldo que debe seguir hirviendo. En seguida agrégale la sal, comprobando el punto preciso con una cuchara de madera. \n
+        4.Cuando la carne esté suave al contacto con el tenedor, incorpórale la yuca y listo. \n
+        5.Puedes acompañar este plato con un poco de ají o salsa de rocoto. Este plato, pese a ser un caldo y contener harina de maíz, se puede disfrutar en toda estación. \n
+        6.Contiene gran cantidad de calorías y proteínas, siendo un plato infaltable para la mesa familiar.
+    </string>
+    <string name="menestron">
+        1 1/2 kilo de carne de res (pecho o asado de tira) \n
+        300 gramos de habas frescas y peladas \n
+        200 gramos de zapallo cortado en tiras finas \n
+        2 choclos medianos cortados en rodajas \n
+        300 gramos de frijoles verdes \n
+        500 gramos de fideos canuto (penne) \n
+        1 taza de espinacas licuadas \n
+        1 taza de albahaca licuada \n
+        1 Kilo de yuca amarilla cortada en trozos \n
+        150 gramos de queso parmesano \n
+        2 cubitos de caldo concentrado de carne \n
+        Sal al gusto
+    </string>
+    <string name="menestronrece">
+        1. Lava y limpia la carne con abundante agua para eliminar residuos de hueso o grasa, luego corta en trozos no muy grandes como para un bocado. \n
+        2.En una olla grande, pon a hervir la carne con agua y un poco de sal por aproximadamente media hora. \n
+        3.Luego de ese tiempo, agrega todas las verduras y los cubitos de caldo concentrado, deja cocer por otra media hora o hasta que la carne esté tierna. \n
+        4.Agrega la espinaca y albahaca licuadas y la yuca, deja hervir unos 5 minutos y echa el fideo. Apaga el fuego en cuanto el fideo esté cocido al dente, rectifica la sal de ser necesario. \n
+        5. Finalmente espolvorea el queso parmesano y sirve de inmediato.
+    </string>
+    <string name="sopacriolla">
+        1 unidad de cebolla \n
+        Una pizca de sal \n
+        1 cucharada de ajo \n
+        600 gramos de carne de res \n
+        Comino a gusto \n
+        2 cucharadas de ají panca v
+        3 cucharadas de pasta de tomate v
+        1 cucharada de orégano seco \n
+        4 unidades de tomate v
+        5 tazas de caldo de carne \n
+        Pimienta a gusto \n
+        125 gramos de cabello de ángel \n
+        Leche evaporada a gusto
+    </string>
+    <string name="sopacriollarece">
+        1.Cortar la cebolla en cuadraditos. Colocarla en una olla caliente con aceite caliente, agregar sal y sofreir por unos minutos. \n
+        2.Añadir ajo y sal a gusto. Mezclar y sofreír por unos minutos. \n
+        3. Agregar la carne de res y comino. Mezclar. Añadir el ají panca, la pasta de tomate y el orégano seco. Mezclar y agregar el tomate cortado en cuadraditos y seguir mezclando. \n
+        4.Añadir el caldo de carne, sal y pimienta a gusto. Mezclar y dejar que de un hervor. Agregar el fideo cabello de ángel. Mover hasta que los fideos se mezclen con el caldo. \n
+        5.Dejar dar un hervor. Agregar laleche evaporada a gusto y mezclar.
+    </string>
+    <string name="chilcanopescado">
+        1 ½ kg de pescado (con cabezas y espinazo) \n
+        8 tazas de agua \n
+        2 ramas de apio \n
+        1 poro chico trozado \n
+        1 cebolla Perejil \n
+        1 cucharadita de ajos molidos \n
+        1 cucharadita de AJI-NO-MOTO® \n
+        2 sobres de Doña Gusta® Pescado y Mariscos \n
+        Sal y pimienta al gusto
+    </string>
+    <string name="chilcanopescadorece">
+        1. Cortar el pescado en trozos, freír y reservar. \n
+        2. Hacer hervir la cabeza y el espinazo con el poro, apio, cebolla y ajo en las 8 tazas de agua. \n
+        3. Cocinar a fuego lento hasta que se sienta bien concentrado el sabor y luego colarlo. Agregar dos sobres de Doña Gusta® Pescado y Mariscos, AJI-NO-MOTO®, sal y pimienta al gusto. \n
+        4. Servir el caldo con un trozo de pescado y espolvorear con un poco de perejil picado.
+    </string>
+    <string name="shambar">
+        1 taza de trigo shámbar \n
+        ½ taza de frejol zarandaja \n
+        ½ taza de frejol bayo \n
+        ¾ de taza de arvejón seco \n
+        1 taza de garbanzo \n
+        1 taza de habas peladas \n
+        350 gramos de costilla ahumada \n
+        250 gramos de pellejo de cerdo \n
+        200 gramos de jamón serrado ahumado picado en cuadraditos v
+        2 cucharadas de aceite vegetal \n
+        2 cucharadas de aceite de achiote \n
+        1 cebolla roja picada en cuadraditos \n
+        2 cebollas de rabo picadas en cuadraditos (2 cabezas de cebolla china) v
+        1 cucharada de ajo molido \n
+        2 cucharadas de ají amarillo molido \n
+        2 cucharadas de ají panca molido \n
+        Orégano seco al gusto \n
+        Sal al gusto \n
+        Pimienta al gusto \n
+        Comino al gusto \n
+        1 rama de hierbabuena \n
+        Culantro al gusto, picado
+    </string>
+    <string name="shambarrece">
+        1.Remojar las menestras y las habas por 24 horas. Las menestras aparte de las habas. \n
+        2.Precocer las menestras de 30 a 45 minutos. \n
+        3.Precocer el pellejo de chancho en un litro de agua hirviendo de 20 a 30 minutos. \n
+        4.En una sartén, preparar un aderezo con el aceite vegetal, el aceite de achiote, la cebolla roja, la cebolla de rabo, el ajo y los ajíes molidos. Añadir orégano seco, sal, pimienta y comino al gusto. \n
+        5.En la olla del pellejo de cerdo, agregar las menestras precocidas, las habas previamente escurridas, la costilla ahumada, el jamón ahumado, el aderezo, la hierbabuena y agua caliente hasta cubrir. Terminar la cocción, aproximadamente por 30 minutos, y al final añadir culantro al gusto. \n
+        6.Servir con limón y ají. Se puede acompañar con chicharrón de cerdo y cancha serrana.
+    </string>
+    <string name="sopaminuta">
+        100 gramos de carne molida \n
+        1 cebolla en cubos \n
+        100 gramos de fideo cabello de ángel \n
+        ¼ de taza de aceite \n
+        ¼ de taza de leche fresca UHT \n
+        2 huevos \n
+        1 cucharadita de ajo molido \n
+        1 cucharadita de ají panca \n
+        1 hoja de laurel \n
+        1 cucharada de pasta de tomate \n
+        3 tazas de agua \n
+        1 ½ cucharada de orégano \n
+        Sal y pimienta \n
+        Pan al ajo o tostadas para acompañar
+    </string>
+    <string name="sopaminutarece">
+        1.Calienta el aceite en una sartén a fuego medio. Agrega la cebolla, los ajos, el ají, laurel y dóralos por cinco minutos. \n
+        2.Mueve el aderezo y agrega la carne molida. Después, sazonar con sal, pimienta, y cocinar durante cinco minutos aproximadamente, hasta sellar la carne. \n
+        3.Luego, añade la pasta de tomate y el orégano, y remueve. Agrega el agua recién hervida, los fideos cabello de ángel y déjalos cocinar por tres minutos. \n
+        4.ierte la leche, remueve y listo. Si deseas puedes acompañar con pan al ajo.
+    </string>
+    <string name="sopapatasca">
+        250 gramos de mote pelado \n
+        ¼ kilo de mondongo \n
+        ¼ kilo de carne de cordero (lomitos) \n
+        ½ pata de vaca \n
+        ¼ kilo de pecho de res \n
+        ¼ kilo de chuleta de cerdo \n
+        1/3 taza de aceite \n
+        1 cebolla \n
+        2 dientes de ajo \n
+        2 cucharadas de ají verde molido \n
+        4 papas negras \n
+        4 pimientas de chapa (olor) \n
+        Sal y pimienta al gusto \n
+        Orégano, hierba buena, perejil y cebolla china
+    </string>
+    <string name="sopapatascarece">
+        1.Remojar el mote de un día para otro. Sancocharlo por una hora y media en abundante agua hasta que reviente. Si tiene olla a presión se cocinará más rápido.\n
+        2.En otra olla grande y de fondo grueso verter el aceite y freír todas las carnes por un rato. Luego, retirarlas y reservar. En la misma olla echar la cebolla y los ajos picados finamente. Rehogar durante 8 minutos. \n
+        3.Ahora añadir el ají, cocer por tres minutos más e ir a las carnes ya cortadas en trozos (pata, mondongo y pecho) sazonas con sal y pimienta, y agregar tres litros de agua. Dejas hervir a fuego medio por una hora aproximadamente. \n
+        4.Luego de 45 minutos añadir el cordero, cerdo y la pimienta de chapa. Dejar hervir por 30 minutos más. Luego, 15 minutos antes de que todo quede listo, debes echar el mote ya sancochado y las papas peladas. \n
+        5.Se recomienda servir en platos individuales y espolvorear con hierbas picadas finamente.
+    </string>
+    <string name="sopachoros">
+        3 docenas de choros (mejillones) \n
+        1 cebolla grande cortada en 2 \n
+        1 tomate cortado en 2 \n
+        1 zanahoria pelada cortada en 2 \n
+        2 tallos de apio \n
+        2 cucharadas de ajos molidos \n
+        Aceite vegetal \n
+        Sal y pimienta al gusto \n
+        Orégano al gusto \n
+        4 papas medianas peladas cortadas en cuadrados \n
+        200 gramos de tallarín \n
+        2 ½ de agua \n
+        Culantro picado
+    </string>
+    <string name="sopachorosrece">
+        1.En una olla o cacerola grande verter un chorro de aceite vegetal, \n
+        2.Una vez caliente añadir el ajo y freír por 30 segundos aproximadamente \n
+        3.Salpimentar el aderezo \n
+        4.Inmediatamente después añadir el agua, seguida de la cebolla, el tomate, la zanahoria, el apio y el orégano \n
+        5.Cocinar a fuego mediano por 20 minutos. Pasado los 20 minutos añadir los choros bien lavados (con concha y todo) \n
+        6.Seguir cocinando a fuego medio, si es necesario añadir más agua \n
+        7.Pasado 15 minutos retirar de la preparación la cebolla, el tomate y el apio \n
+        8.Añadir las papas en cuadrados y el tallarín. Cocinar por 10 o 12 minutos más a fuego mediano (hasta que el tallarín esté al diente \n
+        9.Emplatar y espolvorear el culantro picado
+    </string>
+    <!--CARNES-->
+    <string name="carnealsillao">
+        1 cebolla \n
+         4 dientes de ajo \n
+         2 tomates \n
+         1/4 kg de chovlo tierno cortado (no desgranado) \n
+         2 sobres salsa Ostión \n
+         250 gramos de carne molida \n
+         Chuno \n
+         1 trozo de kion o jengibre \n
+         Huevos de codorniz \n
+         Salsa sillao o de soja/soya
+    </string>
+    <string name="carnealsillaorece">
+        1.Para preparar la salsa de la carne al sillao pelar, cortar el kion y licuar con agua. El licuado hay que colarlo dejando solo el líquido, entonces añadir los sobres de Ostión y mezclar; añadir sillao, añadir 1 cucharadita chuno y mezclar hasta obtener la salsa oscura. \n
+        2.La cebolla picar en cuadraditos, el ajo picar fino o licuar, los tomates rallar sin cáscara, lavar bien el choclo tierno, lavar la carne molida y sancochar los huevos codorniz. \n
+        3.Aderezar la cebolla y el ajo hasta dorar. \n
+        4.Añadir la carne molida y mover hasta dorar. \n
+        5.Añadir el tomate rallado, mezclar y dejar cocinar 3 minutos. \n
+        6.Mover la salsa preparada para la carne al sillao, añadirla a la olla, mezclar y dejar cocinar 2 minutos. \n
+        7.Añadir el choclo peruano tierno, sal al gusto y sillao hasta obtener un color oscuro (sin en caso la salsa no fue suficiente), tapar la olla y dejar cocinar hasta que quede cocinado el choclo. \n
+        8.Añadir los huevos de codorniz, mezclar y apagar fuego. Servir la carne al sillao peruana acompañando con arroz blanco.
+    </string>
+    <string name="carapulcradecerdo">
+        Presas pequeñas de cerdo \n
+         1 cebolla \n
+         4 dientes de ajo \n
+         Ají panca o especial \n
+         Maní molido \n
+         1/4 kg de papa seca \n
+         1/4 de chocolate sublime
+    </string>
+    <string name="carapulcradecerdorece">
+        1.Un día antes dejar remojando en agua la papa seca. Picar en cuadraditos la cebolla, picar o moler los ajos y quitar la grasa de las presas de cerdo. Enjuagar en agua de la papa seca y colar. \n
+        2.En olla con aceite aderezar la cebolla, los ajos y las presas de cerdo hasta que se doren. Cuidar que no se queme la cebolla y ajos.
+        3.Añadir el maní molido y ají especial, mezclar todo. \n
+        4.Añadir agua y el chocolate sublime, mezclar y dejar hervir la carapulcra peruana 5 minutos. \n
+        5.Añadir la papa seca, sal al gusto y añadir un poco de agua, mezclar y dejar cocinar la carapulcra de chancho por 15 minutos o más hasta que el cerdo esté cocido.
+        6.Acompañar la carapulcra con chocolate con arroz y/o yuca frita.
+    </string>
+    <string name="lomosaltado">
+         800 gramos de lomo de res \n
+         200 centímetros cúbicos de vino blanco \n
+         2 cebollas \n
+         2 tomates \n
+         600 gramos de patatas \n
+         1 diente de ajo \n
+         1 cucharada postre de cilantro \n
+         2 piminetos verdes \n
+         60 centímetros cúbicos de salsa de soja \n
+         20 centímetros cúbicos de vinagre blanco \n
+         250 gramos de arroz blanco \n
+         1 pizca de sal \n
+         1 pizca de pimienta
+    </string>
+    <string name="lomosaltadorece">
+        1.Corta el lomo en cubos de 2 cm por 2 cm, tal y como se muestra en la imagen. El lomo saltado peruano también puede hacerse con la carne cortada en tiras, ya que ambas formas son correctas. \n
+        2.Trocea la verdura, es decir, pica finamente el diente de ajo, cortar la cebolla y los pimientos en tiras y tomates en cubo. \n
+        3.En una sartén a fuego fuerte, saltea el ajo con el lomo hasta dorar la carne por fuera, de manera que quede jugosa por dentro. \n
+        TRUCO: Si dispones de más tiempo, puedes marinar la carne en los distintos líquidos (vino blanco, vinagre y salsa de soja) durante media hora y, después, saltéala y añade el líquido más adelante. \n
+        4.Añade al lomo saltado los pimientos y la cebollas y sigue cocinando estos ingredientes hasta alcanzar el punto de cocción deseado. Salpimienta al gusto. \n
+        5.Pasados unos minutos, agrega el vino blanco y el vinagre. Deja reducir el alcohol, añade los tomates y remueve. Finalmente, incorpora la salsa de soja, integra y sirve. Es tradicional servir la receta de lomo saltado peruano acompañada de arroz blanco con cilantro picado y patatas fritas. \n
+        TRUCO: Para muchos el sabor del cilantro no es muy agradable, de manera que se puede suplantar por perejil picado.
+    </string>
+    <string name="pachamanca">
+        Para 12 personas: \n
+         carne de cerdo \n
+         pollo \n
+         carnero \n
+         jamón ahumado \n
+         queso mosarela \n
+         queso tipo suizo \n
+         papas \n
+         camote \n
+         choclos \n
+         hierbas aromáticas \n
+         ají amarillo y colorado licuado \n
+         ajos \n
+         sal \n
+         pimienta \n
+         vinagre de uva \n
+         cerveza \n
+         salsa de soja.
+    </string>
+    <string name="pachamancarece">
+        1.preparación licuar las hirbas aromáticas como el culandro o cilandro, huacatay, chincho, muña, añadirle el ajo, sal pimienta comino, vinagre de uva, cerveza, salsa de soja los ajís licuados; una vez que se encuentren bien sazonados hacer macerar las carnes en el adrezo por espacio de 24 horas en el frigider; para ello la carne del cerdo debe ser fileteada sobre el filete agregar queso mosarela sucesivamente agregar el filete de carnero, agregue otra capa de queso de su preferencia, sucesivamente el filete de pollo y así sucesivamente con las carnes que desee, de tal manera que al final envolverlo como si fuera un pionono y atarlo con una soguilla de algodón. \n
+        2.Sucesivamente cavar un hoyo en la tierra y calentar piedras de preferencia de río o mar, pero para que éstas no se rompan vertir sobre ellas constantemente agua con sal por espacio de tres horas como mínimo; calentadas las piedras se colocan una capa en el fondo del hoyo, para luego colocar la carne, sucesivamente cubrirlas ligeramente con otras piedras, agregar los camotes, las papas, más piedras, los choclos y taparlo con hojas de platano, costales de tela y sucesivamente tierra húmeda por espacio de una hora. \n
+        3.Luego de ese tiempo descúbralo en sentido inversa al entierro, sirvalo con un incurtido de cebollas y rocoto y conocerá sobores incomparables. \n
+        4.Nota tambien puede usar otras carnes \n
+        5.presentaciónen platos de cerámica, si gusta las papas y camotes puede decorarlos de diversas formas y el pionono de carnes luego de desatarlo se corta en rodajas y se sirve. \n
+    </string>
+    <string name="lomonegrosencillo">
+         1 kilogramo de lomo de res \n
+         1 cebolla redonda mediana \n
+         1 pimiento \n
+         2 dientes de ajo \n
+         1 pizca de orégano \n
+         3 semillas de malagueta (guayabita del Perú) \n
+         1 chorro de salsa inglesa \n
+         4 clavo de olor \n
+         1 chorro de aceite para sofreír \n
+         1 pizca de azúcar \n
+         1 pizca de sal
+    </string>
+    <string name="lomonegrorece">
+        1.Pela los ajos y machácalos con el orégano, las semillas de malagueta y los clavos de olor. \n
+        2.Junta la carne con la mezcla anterior para que absorba los sabores y quede bien adobada. Puedes utilizar la pieza entera o cortarla (a tiras o cubos). Luego, añade sal al gusto. \n
+        3.Pon aceite a calentar en una olla, añade el azúcar y deja que se dore ligeramente. Cuando esté caliente, sofríe la cebolla y el pimiento picados finamente. \n
+        4.Luego, sofríe la carne, dándole vueltas para que se haga perfectamente por todos lados. Si prefieres que el lomo negro quede crujiente por fuera y jugoso por dentro, emplea la pieza entera, mientras que para hacerlo también por dentro corta la carne. \n
+        5.Añade la salsa inglesa para dar sabor y color al lomo negro sencillo, tapa la olla y deja cocinar a fuego lento hasta que la carne esté tierna. \n
+        6.Sirve la receta de lomo negro sencillo sin vino tinto y sin horno de inmediato, con una ensalada verde, patatas asadas, arroz blanco, o lo que más te guste. \n
+    </string>
+    <string name="albondigadecarne">
+         ½ kilogramo de carne de res molida. \n
+         2 unidades de Huevo. \n
+         1 unidad de cebolla. \n
+         2 unidades de tomate. \n
+         2 cucharadas soperas de Perejil. \n
+         1 puñado de Pasas. \n
+         1 unidad de Pastilla de caldo. \n
+         1 cucharadita de Ajo molido. \n
+         1 pizca de Sal y Pimienta.
+    </string>
+    <string name="albondigadecarnerece">
+        1.A la carne molida se le agregan los huevos, sal, pimienta y las pasas, se mezcla bien hasta que todo que repartido de forma uniforme. \n
+        2.Aparte se hace un sofrito con la cebolla picada, los ajos molidos y los tomates pelados y picados. Una vez fritos agregarle el perejil picado, sal y pimienta. \n
+        3.Separa el sofrito en dos partes e incorpora una mitad a la carne molida y mezcla bien. \n
+        4.Se forman bolas de más o menos 5cm. de diámetro con la carne. Luego se pasan por harina y se fríen en aceite caliente hasta que se doren por completo. \n
+        5.A la otra mitad de la salsa que quedó se le agrega agua y el cubito de caldo de carne.
+        6.Las albóndigas ya doradas se echan en esta salsa y de dejan que den un hervor a fuego lento, aproximadamente 15 a 20 minutos. \n
+        7.Las albóndigas peruanas se sirven con un poco de arroz o ensalada, vaciando encima de la albóndiga el jugo de la salsa.
+    </string>
+    <string name="polloalhorno">
+         1 pollo. \n
+         1 cucharada sopera de aji panca o picante. \n
+         1 naranja. \n
+         1 limón. \n
+         Sal. \n
+         Pimienta. \n
+         25 centímetros cúbicos de salsa de soja. \n
+         2 cucharadas soperas de aceite de oliva. \n
+         1 kilogramo de papa andina o papines. \n
+    </string>
+    <string name="polloalhornorece">
+        1.Mezcla las especias, los jugos de los cítricos, el jengibre, el vinagre, el ají picante, el azúcar y la salsa de soja. \n
+        2.Con el aderezo para pollo al horno peruano, pinta todas las piezas del pollo y déjalas macerar en la heladera si es posible de un día para otro. Si no es posible, déjalas mínimo 3 horas. \n
+        3.Una vez macerado, precalienta el horno al 180 ºC. Introduce el pollo en el horno. Ve pintando el pollo con los líquidos de la maceración cada 15 minutos mientras se hornea. De esta forma, lograrás una piel crocante y un pollo bien jugoso en el interior. \n
+        4.Lava bien las papas sin pelar. En una olla con sal, pon a hervir el agua e introduce las papas. \n
+        TRUCO: Para que no se rompa la cáscara de la papa, pincha la piel con un mondadientes o un tenedor durante el hervor. \n
+        5.Cocina por 20 minutos, cuela, corta por la mitad y en una sartén con aceite de oliva y manteca, saltea las papas hasta que doren. ¡Sirve y disfruta tu pollo al horno peruano! \n
+        TRUCO: Puedes agregar alguna hierba aromática de tu preferencia para acompañar la guarnición.
+    </string>
+    <string name="saltadodepolloconholantao">
+        1 pecho de pollo picado en cuadrados \n
+         1 puñadp de frejolito chino \n
+         1 puñado de holantao o colantao (arvejas o guisantes) \n
+         8 hojas de lechuga \n
+         1 pimentón \n
+         1 kión o jengibre \n
+         1 cucharada de chuno o salsa agridulce china \n
+         Sillao o salsa de soya o soja \n
+         1 cebolla \n
+         4 dientes de ajo \n
+         2 sobres de salsa de ostión \n
+    </string>
+    <string name="saltadodepolloconholantaorece">
+        1.Pelar, licuar con un poco de agua el kión, colar y dejar el líquido. Añadir la salsa de ostión, añadir sillao y chuno a gusto. Mezclar todo. Esto será lo primero que tenemos que hacer para preparar el rico pollo al holantao. \n
+        2.Con el pimentón cortado en tiras, y la cebolla también cortar en tiras, cortar las puntas y lavar el colantao, lavar las hojas de lechuga y picar o moler los dientes de ajo. \n
+        3.En un won (wok) o sartén grande calentar aceite, echar el ajo y dorar. Añadir el pollo picado y dorar. Cuando el pollo bote agua sacarla y dejar que se dore con aceite. \n
+        4.Añadir el pimentón y la cebolla y dejar que se doren. \n
+        5.Añadir la mezcla de kion y el agua del pollo que sacamos a la sartén. Dejar hervir un poco el sofrito del pollo con holantao. \n
+        6.Añadir el colantao, el frejol chino, sal y dejar hervir. \n
+        7.Añadir las hojas de lechuga y más sillao. Dejar hervir el pollo con colantao hasta que la lechuga se reduzca y apagar fuego. \n
+        8.Servir el salteado de pollo con colantao acompañado con arroz blanco suelto y huevos de codorniz sancochados.
+    </string>
+    <string name="sangresitadepollo">
+        1 kilogramo de Sangre de pollo \n
+         1½ unidades de cebolla \n
+         1½ tazas de cebolla china \n
+         1 cucharadita de Comino \n
+         1 cucharadita de Pimienta \n
+         1 cucharada postre de Ajo \n
+         1 cucharada postre de Ají colorado \n
+         1 cucharadita de Orégano \n
+         1 cucharadita de Ajo molido \n
+         1 taza de Aceite \n
+         1 puñado de Hierbabuena \n
+         1 unidad de Pimiento \n
+         1 unidad de Rocoto
+    </string>
+    <string name="sangrecitadepollorece">
+        1.Freir la sangre en aceite y mover con la espátula y cortar con la misma, agregar la cebolla, ajíes, ajo, pimienta, comino, orégano, rocoto y ají. \n
+        2.Mover bien y echar hierbabuena y al final la cebolla china. \n
+        3.En el Perú se come en el desayuno con pan y camote, tambien en los almuerzos de comida criolla como parte de los diversos platos peruanos.
+    </string>
+    <string name="escabechedepollo">
+         1 unidad de pollo en presas \n
+         1 cabeza de Ajo \n
+         2 unidades de Cubito de gallina \n
+         ½ cucharadita de Comino \n
+         3 unidades de cebolla en rodajas \n
+         1 taza de Aceite \n
+         4 unidades de Huevo cocido \n
+         150 gramos de Aceitunas de botija \n
+         1 pizca de Sal y Pimienta \n
+         1 pizca de Orégano \n
+         2 unidades de Ají entero \n
+         3 cucharadas soperas de Vinagre \n
+         3 unidades de Camote \n
+         lechuga para decorar
+    </string>
+    <string name="escabechedepollorece">
+        1.Moler los ajos con los cubitos de gallina, pimienta y comino. Reservar aparte y cuachara de ajo machacado para la salsa. \n
+        2.Untar las presas de pollo con el preparado anterior y freír en aceite bien caliente. \n
+        3.Distribuir las presas en una fuente decorada con las hojas de lechuga. \n
+        4.Aparte, hacer un sofrito en una olla con aceite de cebolla, ají fresco cortado en tiras, ají licuado, el ajo reservado, orégano, sal y pimienta. Dejar unos minutos en el fuego. \n
+        5.Agregar el vinagre, saltear bien y verter encima del pollo. Decorar con el camote, las aceituna y el huevo sancochado. \n
+        6.Disfruta del escabeche de pollo peruano y acompaña con un poco de arroz blanco... ¡buen provecho!
+    </string>
+
+    <!--mariscos-->
+    <string name="cebicheconchi">
+        12 onzas de conchitas limpias. \n
+        ½ taza de cebolla roja cortada en láminas. \n
+        1 cucharada de ají limo, finamente picado (opcional). \n
+        2 cucharadas de perejil picado. \n
+        ½ cucharadita de ajo picado. \n
+        Sal y pimienta. \n
+        Jugo de 4 limones. \n
+        1 cucharada de aceite de oliva. \n
+        2 hojas de lechuga criolla. \n
+        1 taza de choclo desgranado (o entero cortado en trozos), cocido. \n
+        Camote cocido, cortado en rodajas. \n
+        Yuyos (opcional).
+    </string>
+    <string name="cebicheconchirece">
+        1. Combina las conchitas con la cebolla, ají limo y perejil en un tazón. \n
+        2. Agrega el ajo, sal y pimienta, revolviendo bien. \n
+        3. Incorpora el jugo de limón y aceite de oliva. Deja reposar por un máximo de cinco minutos. \n
+        4. Sirve en dos platos. Coloca las hojas de lechuga y pon camote y choclo. \n
+        5. Encima de las conchitas pon un poquito de yuyos y sirve de inmediato.
+    </string>
+    <string name="chupecamarones">
+         1 kilogramo de camarones. \n
+         ½ kilogramo de Papas. \n
+         ½ taza de arroz. \n
+         1 lata de leche evaporada. \n
+         ½ pieza de cebolla. \n
+         1 diente de Ajo. \n
+         2 cucharadas soperas de Aceite. \n
+         2 piezas de Huevo batido. \n
+         100 gramos de queso fresco. \n
+         1 pizca de Sal.
+    </string>
+    <string name="chupecamaronesrece">
+        1.En la siguiente imagen podrás observar los ingredientes que necesitaremos para la preparación de este increible y delicioso chupe de camarones peruano. \n
+        2.Para comenzar picamos finamente la cebolla y el ajo, en muy pequeños cubos, así como los que observamos en la siguiente imagen. \n
+        3.Ahora en una cacerola colocamos el aceite, y una vez caliente añadimos la cebolla y el ajo picados, junto con una pizca de sal y de pimienta,y dejamos que se sofría perfectamente. \n
+        4.Una vez sofrita la cebolla añadimos dos litros de agua a la cacerola junto con el extracto de camarón y dejamos que hierva. \n
+        El extracto de camarón lo podemos comprar directamente en el supermercado o también al comprar los camarones, los debemos pedir enteros, y al momento de limpiarlos, exprimimos la parte trasera de la cabeza del camarón: el liquido que obtenemos es el extracto de camarón, lo reunimos y eso se lo agregamos al agua.
+    </string>
+    <string name="chicharrondecalamar">
+        5 unidades de Anillos de calamar. \n
+         100 gramos de Harina .\n
+         1 unidad de Huevo \n
+         150 mililitros de cerveza. \n
+         1 unidad de Limón. \n
+         250 mililitros de Aceite. \n
+         1 pizca de Sal. \n
+         1 pizca de Pimienta. \n
+    </string>
+    <string name="chicharrondecalamarrece">
+        1.Antes de realizar esta receta peruana, el primer paso es alistar todos los ingredientes. \n
+        2.Batir el huevo con la cerveza rubia y agregar una pizca de sal y pimienta. Incluir cerveza en el rebozado hará que los calamares queden más crocantes. \n
+        3.Cortar los anillos de calamar por la mitad, salpimentar y pasar por la estación de rebozado, primero por la mezcla de huevo y luego por la harina. Cubrirlos completamente y reservar. \n
+        4.Freír los calamares en aceite a temperatura media hasta que estén dorados. Es importante que el aceite esté bien caliente cuando frías los calamares pero regula siempre la temperatura para que no se quemen antes de que estén hechos. \n
+        5.Servir el chicharrón de calamar peruano decorando con unas rodajas de limón.  \n
+    </string>
+    <string name="piscantemariscope">
+         10 unidades de langostinos. \n
+         150 gramos de pulpo. \n
+         100 gramos de Anillos de calamar. \n
+         5 unidades de tomate rojos. \n
+         100 gramos de Pimiento rojo. \n
+         100 gramos de cebolla roja. \n
+         2 unidades de Ajo. \n
+         1 chorro de Ají tabasco. \n
+         1 pizca de Guindilla molida. \n
+         100 gramos de guisantes. \n
+         1 pizca de Sal. \n
+         1 pizca de Pimienta. \n
+         1 chorro de Aceite de oliva. \n
+         1 cucharada postre de Azúcar.
+    </string>
+    <string name="picantemariscorece">
+        1.Antes de realizar esta receta, el primer paso es alistar todo los ingredientes. \n
+        2.Para hacer la salsa de tomate, licuar éstos hasta obtener una mezcla homogénea. Luego añade la cebolla, el pimiento rojo, los ajos y vuelve a licuar el conjunto. \n
+        3.Agregar la salsa a una olla con aceite y cocinar a fuego bajo durante 10 minutos. Añade el azúcar para regular la acidez del tomate. \n
+        4.A continuación, incorpora los guisantes y continua con la cocción a fuego bajo durante 5 minutos más. Salpimentar la salsa. \n
+        5.Finalmente agregar los mariscos salpimentados junto con el ají tabasco y la guindilla molida. Cocinar a fuego bajo durante 10 minutos más y rectificar sabor con sal y pimienta si es necesario. \n
+        6.Servir el picante de mariscos y disfrutar. Este plato peruano lo puedes acompañar con arroz blanco o patatas asadas. Y como no haya mejor para calmar el picante que la leche, te recomendamos probar el batido de yogur con avena.
+    </string>
+    <string name="majarisconorteno">
+        1 cebolla morada. \n
+         1 Pimiento .\n
+         Crema de ají amarillo: \n
+         1 pizca de Sal. \n
+         1 pizca de Pimienta. \n
+         crema de leche. \n
+         queso. \n
+         1 vaso de Chicha \n
+         maicena. \n
+         1 Plátano verde. \n
+         1 diente de Ajo. \n
+         salsa de soja. \n
+         Wantán. \n
+         1 Limón. \n
+         mayonesa. \n
+         Aceite. \n
+         ½ kilogramo de mariscos variados. \n
+         1 rama de Culantro. \n
+         Mantequilla. \n
+         Ají limón.
+    </string>
+    <string name="majarisconortenorece">
+        1.Lo primero que se debe hacer para empezar a preparar el majarisco norteño es sofreír la cebolla junto con un poco de mantequilla fría, el pimiento y ajo picados. \n
+        2.Una vez sofritos los ingredientes anteriores, agregar crema de ají amarillo al gusto y remover. Aparte, sofreír el plátano verde y, cuando esté hecho, triturar en el mortero hasta dejarlo puré y reservar. \n
+        3.Agregar soya al gusto, sal, pimienta, la chicha y los mariscos troceados al sofrito. Dejar cocinar todos estos ingredientes durante pocos minutos, remover y añadir la maicena, la crema de leche y el queso. Seguidamente, colocar el plátano verde triturado. \n
+        TRUCO: Se puede escoger los mariscos que más gusten, como langostinos, calamar, pulpo...
+        4.Mezclar todos los ingredientes del majarisco norteño y agregar mayonesa al gusto junto con el culantro picado. Probar la preparación, rectificar sabores y añadir una pizca de sal, culantro, y ají limón. \n
+        5.Servir el majarisco norteño decorándolo con wantán cortado en tiras largas y sofritas, y cebolla en plumas. También se puede acompañar con una ensalada de mango o una ensalada de quinoa. \n
+    </string>
+    <string name="chicharronpescado">
+        500 gramos de lenguado. \n
+         250 gramos de harina de maíz. \n
+         ½ cucharadita de Pimienta. \n
+         ½ cucharadita de Sal. \n
+         ½ cucharadita de Romero. \n
+         ½ cucharadita de Sal de ajo. \n
+         Aceite vegetal.
+    </string>
+    <string name="chcicharronpescadorece">
+        1.Verás que preparar ésta receta es muy fácil pues se trata básicamente de "empanizar" el pescado, pero el sabor y la textura que se obtienen son totalmente diferentes a todo lo que has probado. Lo primero que haremos para preparar el chicharrón de pescado será cortar los filetes de lenguado en cubos más o menos del tamaño de un bocado.\n
+        TRUCO: Seca el pescado ligeramente para retirar el exceso de agua, sobre todo si se trata de pescado congelado. \n
+        2.Coloca la harina en un tazón y mezcla junto con la pimienta, sal, romero, y ajo en polvo. \n
+        3.Agrega el pescado y cubre bien con la harina. \n
+        4.Fríe los trozos de pescado en una sartén con suficiente aceite ya caliente. Fríe el chicharrón de pescado hasta que tenga una apariencia dorada y se sienta firme. \n
+        5.Escurre el exceso de aceite de los chicharrones antes de servir. Puedes utilizar papel absorbente para ello. \n
+        6.Sirve el chicharrón de pescado como entrante o botana acompañado de mayonesa, limón y salsa picante, no olvides comerlo mientras está caliente.
+    </string>
+    <string name="ajiatun">
+        2 latas de atún. \n
+         1 unidad de cebolla. \n
+         2 dientes de Ajo. \n
+         2 unidades de pan francés. \n
+         ½ taza de Leche (120 mililitros). \n
+         ½ vaso de Aceite. \n
+         1 unidad de Ají amarillo. \n
+         ½ taza de queso parmesano. \n
+         1 taza de caldo de verduras. \n
+         5 unidades de Papas. \n
+         3 unidades de Huevos. \n
+         Aceitunas al gusto. \n
+         10 gramos de Perejil picado. \n
+         1 pizca de Sal. \n
+         1 pizca de Pimienta.
+    </string>
+    <string name="ajiatunrece">
+        1.Remojar el pan francés en la leche y deshacerlo o procesar. Aparte, calentar el aceite en una olla y agregar la cebolla y el ajo picado. Cocinar estos ingredientes hasta que estén ligeramente dorados y agregar el ají amarillo molido, sazonar con sal y pimienta al gusto.  \n
+        2.Añadir el pan remojado en la leche y llevar todo a hervir. Verter el caldo de verduras, después añadir el atún desmenuzado y por último el queso parmesano. Rectificar sabor con sal y llevar a hervir nuevamente. Cuando esté listo, sirve el ají de atún acompañado con papas, huevo cocido y aceitunas. Espolvorear con perejil picado. \n
+        3.Si quieres llevarte tu ají de atún al trabajo, en una lonchera, deberás tener en cuenta las siguientes sugerencias. Deberás dejar enfriar completamente la preparación y verter las diferentes porciones en recipientes rígidos. Cerrarlos herméticamente y reservarlos en el congelador. El ají puede aguantar hasta 3 meses congelado. \n
+        4.Al momento de descongelar, deberás hacerlo a temperatura ambiente y cocinarlo de nuevo a fuego lento para calentarlo. Ten presente que la papa y el huevo cocido no se pueden congelar, puesto que la papa al descongelarla se deshace. Tanto la papa como el huevo se tienen que cocinar el mismo día.
+    </string>
+    <string name="pescadosudado">
+        1 kilogramo de pescado. \n
+         1 Pastilla de caldo. \n
+         1 cebolla. \n
+         1 taza de Agua (240 mililitros). \n
+         1 taza de Leche de coco. \n
+         1 Limón. \n
+         2 dientes de Ajo. \n
+         1 pizca de Cilantro fresco. \n
+         2 cucharadas soperas de Aceite. \n
+         1 tomate. \n
+         1 trozo de Pimiento. \n
+         1 cucharadita de Sal. \n
+         1 pizca de Orégano fresco.
+    </string>
+    <string name="pescadosudadorece">
+        1.Se destripa el pescado y se lava muy bien. Unta muy bien con sal y limón y deja que marine durante unos 20 minutos. \n
+        RECUERDA que para hacer esta receta de pescado sudado puedes utilizar cualquier tipo de pescado, el que más te guste. \n
+        2.Mientras, aprovecha y pica finamente las verduras. Empieza con el tomate, la cebolla y el pimentón, también machaca el ajo. \n
+        3.A continuación, caliente una sartén con el aceite y pon a dorar el ajo durante un minuto. Luego, añade el resto de ingredientes al sofrito y continua con la cocción hasta que esté todo bien hecho. \n
+        4.Ahora desmenuza la pastilla de caldo e incorpora en la sartén la leche de coco. Puedes usar pastillas de caldo de ave o de verduras. \n
+        5.Finalmente, enjuaga el pescado para quitarle el exceso de sal y colócalo dentro de la olla. Tapa y continua con la cocción durante unos 30-45 minutos. \n
+        TRUCO: Si crees que le hace falta líquido a la cocción puedes echar más agua o leche de coco. \n
+        6.Pasado este tiempo, destapa el pescado sudado y añade las hierbas finamente picadas. Deja reposar unos minutos y listo. \n
+        7.Disfruta del pescado sudado acompañando el plato con un poco de arroz con coco, puré de papas o plátano frito. ¡Buen provecho! \n
+    </string>
+    <string name="tiralenguado">
+        200 g de pescado (lenguado, cabrilla o mero) muy fresco, cortado en láminas delgadas. \n
+        8 ajíes, sin semillas ni venas (para hacer crema de ají). \n
+        ½ cucharada de sal. \n
+        Pizca de aji no moto. \n
+        ají limo al gusto, picado grueso, de preferencia rojo y amarillo. \n
+        2 cubos de hielo. \n
+        5 limones. \n
+        Hojas de culantro. \n
+        Choclo. \n
+        Camote
+    </string>
+    <string name="tiralenguadorece">
+        1. Para preparar este plato, es preferible usar lenguado, cabrilla o mero. \n
+        2. El pescado debe estar muy fresco y, si es posible, recién capturado. \n
+        3. Por ningún motivo, prepare tiraditos esqueléticos, esto es, láminas chancadas de pescado maltratado que ni siquiera llegan a los 100 g. \n
+        4. Provéase de un filete grueso y grande de lenguado. Lávelo con suma delicadeza y corte 200 g de pescado en láminas sobre una tabla. \n
+        5. El corte no debe ser ni muy grueso ni muy delgado y de un largo aproximado de 6 cm. \n
+        6. Para evitar que la carne se pegue al cuchillo, corte el pescado húmedo y humedezca de vez en cuando el filo del cuchillo. \n
+        7. Algunos estiran la carne del pescado dándole un golpe con el lomo del cuchillo; si desea sentir la textura original al morder, evite hacer esto.
+        8. Coloque el pescado en láminas (previamente enfriado) sobre un plato grande. Reserve en el frío por unos segundos. \n
+        9. La crema de ají se prepara de la siguiente manera: hierva durante 10 minutos 8 ajíes amarillos sin pepas ni venas. \n
+        10. Escurra, retire la piel y licue apenas con un poco de agua; debe resultar espesa y cremosa. \n
+        11. Para aprovechar el sutil sabor y aroma del ají amarillo, prepare esta crema con solo 3 horas de anticipación. En un bol, incorpore los retazos de pescado que le sobraron y sazone con ½ cucharada de sal, una pizca de ajinomoto.
+        12. Adicione ají limo al gusto picado grueso; es preferible usar los de color rojo y amarillo porque son los que mejor aroma aportan; evite usar las pepas de ají, pues la sazón se pondría violenta. \n
+        13. En seguida, agregue 1 ½ cucharada de crema de ají, 2 cubos de hielo y exprima 5 limones jugosos. Rectifique la sazón, retire el hielo y cuele sobre el lenguado laminado. \n
+        14. Acomode hojitas enteras de culantro sobre el pescado. Sirva de inmediato con lechuga, choclo y camote.
+    </string>
+    <!--snacks y piqueos-->
+    <string name="champirellenos">
+        200G Champiñones \n
+        150G Queso crema (Tipo philadelphia) \n
+        60G Jamón inglés en cubos pequeños \n
+        1 CDA.Perejil picado \n
+        1/2 CDTA.Tomillo \n
+        1/2 CDTA.Orégano en polvo \n
+        4 CDAS.Queso parmesano rallado \n
+        1 CDA.Mantquilla \n
+        Sal
+    </string>
+    <string name="champirellenosrece">
+        1.Retire los tallos de los champiñones, píquelos y mezcle con el queso crema, el jamón, el perejil, el tomillo, el orégano y sal. \n
+        2.Rellene los champiñones con esta mezcla, esparza encima el queso parmesano, ponga sobre una lata engrasada con la mantequilla y lleve al horno precalentado a 180 °C durante 15 minutos, hasta que gratinen. \n
+        3. Sirva
+    </string>
+    <string name="empanadasmixtas">
+        2 CDAS.Mantequilla \n
+        1 CDTA.Harina sin preparar \n
+        3/4 TZ.Leche evaporada \n
+        1 TZ.Queso edam rallado \n
+        1 TZ.Jamón inglés picado \n
+        12 Discos de masa \n
+        Hojaldre \n
+        1 Yema \n
+        Sal, Pimienta Y Núez moscada rallada
+    </string>
+    <string name="empanadasmixtasrece">
+        1.En una sartén, a fuego medio, derrita la mantequilla y mézclelas con la harina. Cocine durante tres minutos. \n
+        2.Añada media taza de leche y revuelva durante tres minutos. Sazone con sal, pimienta y nuez moscada. \n
+        3.Agregue el queso y el jamón, y deje cocinar hasta que el queso se derrita. Retire del fuego y deje enfriar. \n
+        4.Extienda los discos de masa sobre una superficie y coloque, en el centro de cada uno, dos cucharadas de relleno. \n
+        5.Cierre los discos, uniendo un extremo con el otro y presionando los bordes. Mezcle en un bol el resto de la leche con la yema, y pincele las empanadas con una brocha. \n
+        6.Colóquelas en una lata y lleve al horno a 180 °C durante 12 minutos. Sirva de inmediato.
+    </string>
+    <string name="humita">
+        1 kilo de choclos.\n
+        6 cucharadas de manteca de cerdo. \n
+        ½ taza de cebolla picada. \n
+        1 cucharadita de ajo molido. \n
+        3 cucharadas de crema de ají amarillo. \n
+        ½ taza de culantro molido. \n
+        ¼ de cucharada de comino. \n
+        4 cucharadas de mantequilla. \n
+        200 gramos de queso fresco en cubos. \n
+        8 rodajas de ají amarillo. \n
+        2 presas de pollo cocido; en bastones. \n
+        8 aceitunas negras de botija sin pepas. \n
+        Panca de choclo. \n
+        Sal y pimienta al gusto.
+    </string>
+    <string name="humitarece">
+        1. Desgrane y muela los choclos. \n
+        2. Prepare un aderezo con la mitad de la manteca; la cebolla; el ajo; la crema de ají amarillo; el culantro y el comino.\n
+        3. Incorpore el choclo molido; el resto de la manteca y la mantequilla. \n
+        4. Remueva hasta que la masa este cocida y sazone. Arme las humitas con la masa tibia y las pancas de choclo previamente blanqueadas en agua hirviendo.\n
+        5. Rellene con queso; trozos de pollo; ají amarillo y aceitunas. \n
+        6. Cocínelas al vapor durante cincuenta minutos aproximadamente.
+    </string>
+    <string name="langosempanizados">
+        2 TZ.Jugo de maracuyá \n
+        3/4 TZ.Azúcar \n
+        1 CDA.Mantequilla \n
+        3/4 TZ.Panko \n
+        1/2 TZ.Coco seco rallado \n
+        2 CDTA.Ralladura de limon \n
+        2 HUEVOS \n
+        1 TZ.ACEITE VEGETAL \n
+        18 Langostinos grnades, limpios \n
+        Sal y Pimienta
+    </string>
+    <string name="langosempanizadosrece">
+        1.Ponga el jugo de maracuyá en una olla con dos tazas de agua y el azúcar. \n
+        2.Haga hervir a fuego medio, remueva para disolver el azúcar y deje reducir a la mitad. Retire del fuego, añada la mantequilla y, con la ayuda de un batidor de mano, bata hasta obtener una salsa homogénea y brillante. Reserve la salsa de maracuyá. \n
+        3.Mezcle en un bol el panko, el coco, la ralladura de limón, sal y pimienta. Coloque en un plato y reserve. Aparte, bata en otro bol los huevos, incorpore los langostinos y mezcle. \n
+        4.Escúrralos y, uno a uno, páselos por la mezcla de panko. \n
+        5.Caliente el aceite en una sartén honda a fuego medio y fría los langostinos en grupos de tres o cuatro, de uno a dos minutos por lado, hasta que estén dorados. \n
+        6.Colóquelos sobre papel absorbente para retirar el exceso de grasa. Sirva y acompañe con la salsa de maracuyá.
+    </string>
+    <string name="paroyo">
+        2 CDAS.Aceite de oliva \n
+        90G Mantequilla \n
+        3 Cebollas blancas a la pluma fina \n
+        1 TZ.Yogur natural \n
+        3/4 CDTA.Páprika \n
+        1KG Papas cóctel sancochadas con piel \n
+        1 CDA.Romero picado \n
+        Sal y Pimienta
+    </string>
+    <string name="paroyorece">
+        1.En una sartén a fuego bajo, caliente el aceite, derrita una cucharada de mantequilla y rehogue la cebolla durante 25 minutos sin dejar de remover, hasta caramelizar. \n
+        2.Retire del fuego, deje enfriar y licúe junto con el yogur, media cucharadita de páprika y media cucharadita de sal hasta obtener una mezcla homogénea. \n
+        3.Vierta en un bol pequeño y esparza encima el resto de la páprika. Reserve. En otra sartén a fuego medio, derrita la mantequilla restante e incorpore las papas. \n
+        4.Sazone con el romero, sal y pimienta, y saltee durante cuatro minutos. Retire del fuego, sirva y acompañe con el dip de yogur y cebolla.
+    </string>
+    <string name="quesapollo">
+        1Pechuga de pollo deshuesada \n
+        3 CDAS.Aceite de olivo \n
+        1 1/4Cebollas blancas \n
+        1 Pimiento rojo en tiras finas \n
+        1Palta punta \n
+        2 Limones \n
+        1 Ají amarillo sin venas ni pepas, picado \n
+        1 Tomate sin piel ni pepas, picado \n
+        4 Tortillas de trigo \n
+        4 Queso gruyere rallado \n
+        1 TZ.Crema agria \n
+        Sal y Pimienta
+    </string>
+    <string name="quesapollorece">
+        1.Corte el pollo en tiras delgadas y sazone con sal y pimienta. Caliente dos cucharadas de aceite en una sartén a fuego alto y saltee el pollo durante dos minutos por lado. \n
+        2.Retire y reserve. En la misma sartén, saltee una cebolla en tiras finas durante cuatro minutos. Retírelo y mezcle en un bol con la cebolla y el pollo. Reserve.  \n
+        3.Triture la palta con un tenedor y mezcle con el jugo de los limones, la cebolla restante picada, el ají amarillo y el tomate. Reserve el guacamole. \n
+        4.Distribuya entre dos tortillas el queso gruyere y el pollo con pimiento y cebolla. Tape con las tortillas restantes y cocine por ambos lados en una sartén a fuego medio con el resto del aceite caliente, durante dos minutos por lado. \n
+        5.Retire y corte las quesadillas en ocho. Sirva con el guacamole y la crema agria.
+    </string>
+    <string name="sandqueso">
+        Pan artesanal. \n
+        Pesto casero. \n
+        Queso de cabra. \n
+    </string>
+    <string name="sandquesorece">
+        1. Rellenar el pan con el pesto y el queso de cabra. \n
+        2. Sal o aceite de oliva al gusto.
+    </string>
+    <string name="tequesangre">
+        2 TZS.Aceite \n
+        1/2 TZ.Cebolla roja picada \n
+        1 CDTA.Ají limo picado \n
+        1 TZ.Sangrecita \n
+        1 CDTA.Ají amarillo molido \n
+        1 CDTA.Cebolla china, parte verde, picada \n
+        24 Láminas de masa wantán \n
+        1 Manzana sin piel, en cubos \n
+        1/4 CDTA.Canela en polvo \n
+        1 CDA.Azúcar rubia
+    </string>
+    <string name="tequesangrerece">
+        1.En una sartén a fuego medio, caliente dos cucharadas de aceite y rehogue la cebolla, el ají limo y la sangrecita durante cinco minutos. \n
+        2.Agregue el ají amarillo y la cebolla china, mezcle, y sazone con sal. Retire del fuego. Extienda las láminas de masa wantán sobre una superficie plana y distribuya la preparación anterior en el centro de cada una. \n
+        3.Enrolle los tequeños y cierre los bordes con los dedos, untándolos con u npoco de agua para que se peguen bien. \n
+        4.En una sartén a fuego medio, caliente el resto del aceite y fría los tequeños en inmersión hasta que estén dorados. Retire y escurra sobre papel absorbente. \n
+        5.Aparte, en un recipiente refractario, ponga la manzana y esparza encima la canela y el azúcar rubia. Lleve al microondas a potencia máxima durante 15 minutos. \n
+        6.Retire y licúe la preparación hasta lograr un puré homogéneo. Sirva los tequeños de sangrecita y acompañe con el puré de manzana. \n
+    </string>
+    <string name="tortibacalao">
+        4 huevos. \n
+        1 pimiento verde.\n
+        1 cebolla mediana. \n
+        400 gr de bacalao desalado. \n
+        Un poco de leche. \n
+        Aceite de oliva virgen extra.
+    </string>
+    <string name="tortibacalaorece">
+        1. Comienza esta deliciosa receta colocando el bacalao en un tazón lleno de agua fría durante dos días para lograr quitar toda la sal. \n
+        Nota: Recuerda que debes cambiar el agua entre cuatro o cinco veces cada ocho o 12 horas.
+        2. Cuando el bacalao se ha desalado, ponlo a hervir con un poco de leche. \n
+        3. Cuando notes el primer hervor, retíralo del fuego y deja la leche hasta que tome temperatura ambiente. \n
+        4. Cuando ya se enfríe, retírale las espinas y piel al bacalao. Luego, resérvalo. \n
+        5. Por otro lado, prepara el sofrito de la tortilla. Troza la cebolla y el pimiento. \n
+        6. Echa un poco de aceite en la sartén y agrega la cebolla y el pimiento. Por otro lado, bate los huevos para hacer la tortilla en un tazón. \n
+        7. Mientras que vas batiendo los huevos, eche el bacalao, la cebolla y el pimiento. \n
+        8. Si deseas echa sal, aunque no hará mucha falta. Prueba según tu gusto. \n
+        9. Calienta un par de cucharadas de aceite en una sartén y luego échalo al tazón. \n
+        10. Comienza preparando a fuego fuerte y luego a fuego medio hasta que notes que cuaje. \n
+        11. Dale la vuelta al bacalao y tápalo para que cuaje totalmente.
+    </string>
+    <string name="wantanpulpo">
+        1 TZ.Mayonesa \n
+        2 CDAS.Aceitunas negras licuadas \n
+        1/2 CDTA.Miel de abeja \n
+        1 TZ.Pulpo cocido, en trozos pequeños \n
+        4 CDTAS.Cebolla china picada, parte verde \n
+        1 CDTA.Aceite de ajonjolí \n
+        Jugo de 4 limones \n
+        2 CDTAS.Kion rallado \n
+        24 Láminas de masa wantán \n
+        4 TZS.Aceite vegetal \n
+        Sal
+    </string>
+    <string name="wantanpulporece">
+        1.En un bol, mezcle la mayonesa, las aceitunas licuadas, la miel y sal. Reserve la salsa de olivo refrigerada. \n
+        2.Aparte, mezcle el pulpo con la cebolla china, el aceite de ajonjolí, el jugo de limón y, al final el kion rallado.  \n
+        3.Reparta el relleno en las láminas de masa wantán y ciérrelas mojando los bordes con agua, En una olla a fuego medio, caliente el aceite vegetal y fría los wantanes durante nueve minutos, hasta que estén dorados y crocantes. \n
+        4.Retire y escurra en papel absorbente. Sirva los wantanes en una fuente y acompañe con la salsa de olivo.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

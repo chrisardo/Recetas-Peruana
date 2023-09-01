@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="199dp"
+                android:background="#E91E63"/>
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolboarI"
+                android:layout_width="match_parent"
+                android:theme="@style/ToolBar"
+                android:layout_marginStart="-5dp"
+                android:layout_height="?attr/actionBarSize">
+                <LinearLayout
+                    android:id="@+id/idLayoutFondo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:elevation="8dp">
+                    <ImageView
+                        android:id="@+id/im"
+                        android:layout_width="50dp"
+                        android:layout_height="40dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:src="@drawable/logosa" />
+                    <TextView
+                        android:id="@+id/nivel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:gravity="center"
+                        android:text="@string/app_name"
+                        android:textColor="@android:color/white"
+                        android:textSize="22dp"
+                        android:textStyle="bold|italic" />
+                </LinearLayout>
+            </androidx.appcompat.widget.Toolbar>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_below="@+id/toolboarI"
+                android:layout_marginTop="16dp"
+                android:layout_margin="14dp"
+                android:layout_height="116dp"/>
+            <TextView
+                android:id="@+id/titleCategory"
+                android:text="ELEGIR CATEGORIAS"
+                android:textSize="20sp"
+                android:textColor="#E91E63"
+                android:textStyle="bold|italic"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="6dp"
+                android:layout_below="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <ScrollView
+                android:id="@+id/scrollView"
+                android:layout_below="@+id/titleCategory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:id="@+id/cardCate"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="30dp"
+                    android:layout_below="@id/titleCategory"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:id="@+id/pastas"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="3dp">
+
+                            <FrameLayout
+                                android:layout_width="match_parent"
+                                android:background="@drawable/colorcard"
+                                android:layout_height="match_parent">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:orientation="vertical"
+                                    android:paddingLeft="20dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:paddingRight="20dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="70dp"
+                                        android:padding="5dp"
+                                        android:src="@drawable/snacks" />
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_gravity="center_horizontal"
+                                        android:layout_marginBottom="5dp"
+                                        android:text="SNACKS Y PIQUEOS"
+                                        android:textAlignment="center"
+                                        android:textColor="#fff"
+                                        android:textStyle="bold|italic"
+                                        android:background="#3949AB" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/bebidas"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="3dp">
+                            <FrameLayout
+                                android:background="@drawable/colorcard2t"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:paddingLeft="20dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:paddingRight="20dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="70dp"
+                                        android:padding="5dp"
+                                        android:src="@drawable/pisco" />
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center_horizontal"
+                                        android:layout_marginBottom="5dp"
+                                        android:textAlignment="center"
+                                        android:textColor="#fff"
+                                        android:textStyle="bold|italic"
+                                        android:text="TRAGO Y REFRESCO" />
+                                </LinearLayout>
+
+                            </FrameLayout>
+                        </androidx.cardview.widget.CardView>
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:id="@+id/mariscos"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="3dp">
+
+
+                            <FrameLayout
+                                android:background="@drawable/colorcard3"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:paddingLeft="20dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:paddingRight="20dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="70dp"
+                                        android:padding="5dp"
+                                        android:src="@drawable/icocevi" />
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center_horizontal"
+                                        android:layout_marginBottom="5dp"
+                                        android:text="MARINAS Y MARISCOS"
+                                        android:textAlignment="center"
+                                        android:textColor="#fff"
+                                        android:textSize="12dp"
+                                        android:textStyle="bold|italic"/>
+                                </LinearLayout>
+                            </FrameLayout>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dp"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/sopa"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="3dp">
+
+
+                            <FrameLayout
+                                android:background="@drawable/colorcard4"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:paddingLeft="20dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:paddingRight="20dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="70dp"
+                                        android:padding="5dp"
+                                        android:src="@drawable/icoso" />
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center_horizontal"
+                                        android:layout_marginBottom="5dp"
+                                        android:text="SOPAS PERUANA"
+                                        android:textColor="#fff"
+                                        android:textStyle="italic|bold"
+                                        android:textAlignment="center"/>
+                                </LinearLayout>
+
+                            </FrameLayout>
+                        </androidx.cardview.widget.CardView>
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/postres"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="3dp">
+
+
+                            <FrameLayout
+                                android:background="@drawable/colorcard5"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:paddingLeft="20dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:paddingRight="20dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="70dp"
+                                        android:padding="5dp"
+                                        android:src="@drawable/sample_image_category" />
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:text="POSTRES PERUANA"
+                                        android:textAlignment="center"
+                                        android:textStyle="bold|italic"
+                                        android:textColor="#fff"
+                                        android:layout_gravity="center_horizontal"
+                                        android:layout_marginBottom="5dp" />
+                                </LinearLayout>
+
+                            </FrameLayout>
+                        </androidx.cardview.widget.CardView>
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/carnes"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="3dp">
+                            <FrameLayout
+                                android:background="@drawable/colorcard6"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:layout_marginBottom="8dp"
+                                    android:paddingLeft="20dp"
+                                    android:paddingRight="20dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="70dp"
+                                        android:padding="5dp"
+                                        android:src="@drawable/lo" />
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:text="CARNES PERUANA"
+                                        android:textAlignment="center"
+                                        android:textColor="#fff"
+                                        android:textStyle="bold|italic"
+                                        android:layout_gravity="center_horizontal"
+                                        android:layout_marginBottom="5dp" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+                    <TextView
+                        android:id="@+id/txtmasvistas"
+                        android:text="RECETAS POPULARES"
+                        android:textSize="20sp"
+                        android:textColor="#E91E63"
+                        android:textStyle="bold|italic"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_below="@+id/cardCate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/rView2"
+                        android:layout_width="match_parent"
+                        android:layout_below="@+id/cardCate"
+                        android:layout_marginTop="2dp"
+                        android:layout_margin="5dp"
+                        android:orientation="horizontal"
+                        android:layout_height="146dp"/>
+                </LinearLayout>
+            </ScrollView>
+            <com.appnext.banners.BannerView
+                android:id="@+id/banerMain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                app:bannerSize="BANNER"
+                app:placementId="322134c4-c4c1-4865-9802-25eafe21a237" />
+            <!--<com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-7202856937620464/6675751036"/>-->
+        </RelativeLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
